@@ -1,0 +1,6 @@
+LearnGreen/
+├── src/
+├── data/
+├── models/
+├── requirements.txt
+└── README.md
