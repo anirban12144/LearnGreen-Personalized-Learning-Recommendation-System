@@ -1,49 +1,94 @@
-# LearnGreen – Personalized Learning Recommendation System
+# 🌱 LearnGreen – Personalized Learning Recommendation System
 
-## Project Overview
+### Machine Learning | Python | Streamlit | Random Forest
 
-LearnGreen is a Machine Learning-based Personalized Learning Recommendation System designed to provide students with suitable learning recommendations based on their academic performance, interests, preferred learning styles, and completed topics.
+LearnGreen is a Machine Learning-based Personalized Learning Recommendation System designed to provide students with suitable learning resources based on their academic performance, interests, preferred learning styles, and previously completed topics.
 
-The system uses a Random Forest classification model to evaluate learning suitability and generate personalized recommendations through an interactive Streamlit dashboard.
+The system uses a Random Forest classification model to evaluate learning suitability and generate five ranked learning recommendations through an interactive Streamlit dashboard.
 
-## Problem Statement
+---
 
-Traditional learning approaches often provide the same resources to every student, ignoring individual learning needs, interests, and academic performance. LearnGreen aims to make learning more personalized and effective.
+## 📌 1. Project Overview
 
-## Objectives
+Traditional learning systems often provide similar learning materials to every student without considering their individual abilities, interests, and learning preferences.
 
-* Analyze individual student learning profiles.
-* Understand academic performance and learning preferences.
-* Generate personalized learning recommendations.
-* Improve the learning experience through Machine Learning.
+LearnGreen addresses this problem by analyzing individual student profiles and recommending suitable learning resources.
 
-## Key Features
+The system aims to make learning more personalized, accessible, and effective through Machine Learning.
 
-* Student profile input.
-* Academic performance analysis.
-* Learning interest selection.
-* Preferred learning style selection.
-* Completed topic tracking.
-* Personalized learning recommendations.
-* Interactive Streamlit dashboard.
-* Machine Learning model evaluation.
+---
 
-## Technologies Used
+## 🎯 2. Project Objectives
 
-* Python
-* Machine Learning
-* Scikit-learn
-* Random Forest
-* Streamlit
-* Pandas
-* NumPy
-* Joblib
-* Matplotlib
+* Develop a personalized learning recommendation system.
+* Analyze students' academic performance.
+* Identify individual learning interests and preferences.
+* Consider preferred learning styles and formats.
+* Track previously completed learning topics.
+* Generate ranked and suitable learning recommendations.
+* Improve the overall learning experience through Machine Learning.
 
-## Machine Learning Algorithm
+---
 
-The project uses a Random Forest classification algorithm to evaluate the suitability of learning recommendations based on student-related features.
+## ⚙️ 3. Key Features
 
-## Model Performance
+* **Student Profile Analysis:** Collects student information and learning preferences.
+* **Academic Performance Analysis:** Evaluates recent academic performance.
+* **Interest-Based Recommendations:** Considers students' selected learning interests.
+* **Learning Style Selection:** Supports different learning preferences.
+* **Completed Topic Tracking:** Avoids recommending already completed topics.
+* **Personalized Recommendations:** Generates five ranked learning recommendations.
+* **Recommendation Scoring:** Displays suitability scores for recommended resources.
+* **Interactive Dashboard:** Provides an easy-to-use Streamlit interface.
+* **Machine Learning Integration:** Uses a trained Random Forest classification model.
 
-| Evaluation Metric | Scor
+---
+
+## 🧠 4. Machine Learning Algorithm
+
+### Random Forest Classifier
+
+LearnGreen uses the Random Forest classification algorithm to evaluate the suitability of learning resources.
+
+Random Forest is an ensemble learning algorithm that combines multiple decision trees to improve classification performance.
+
+**Working Process:**
+
+1. Collect student learning information.
+2. Process student-related features.
+3. Pass the input features to the trained Random Forest model.
+4. Evaluate learning resource suitability.
+5. Calculate recommendation scores.
+6. Rank the suitable resources.
+7. Display the top five recommendations.
+
+### Why Random Forest?
+
+* Handles multiple input features.
+* Combines predictions from multiple decision trees.
+* Can model nonlinear relationships.
+* Reduces overfitting compared with relying on a single decision tree.
+
+---
+
+## 📊 5. Dataset Description
+
+The project uses synthetic learning-related datasets.
+
+The dataset information includes:
+
+| Dataset Component    | Details                       |
+| -------------------- | ----------------------------- |
+| Student Interactions | 2,500 records                 |
+| Student Features     | 10 columns                    |
+| Learning Resources   | 104 resources                 |
+| Data Type            | Structured data               |
+| Application          | Learning suitability analysis |
+
+The student interaction data supports model training and evaluation, while the learning resource dataset provides information used to generate recommendations.
+
+---
+
+## 📈 6. Model Performance
+
+The Random Forest m
