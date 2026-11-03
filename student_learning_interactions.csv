@@ -1,0 +1,2501 @@
+student_id,performance_score,interest_category,learning_preference,resource_category,topic,resource_type,difficulty,topic_completed,suitable
+S001,78,Machine Learning,Video,Python,Collections,Video,Advanced,1,0
+S002,82,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,1,1
+S003,77,Machine Learning,Reading,Data Science,Visualization,Article,Intermediate,0,0
+S004,89,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,1,1
+S005,79,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,0,1
+S006,80,Data Science,Interactive,Python,Collections,Quiz,Advanced,1,1
+S007,47,Data Science,Practice,Data Science,Visualization,Practice,Beginner,0,1
+S008,45,Databases,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S009,60,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S010,87,Databases,Interactive,Databases,SQL Basics,Article,Advanced,1,1
+S011,37,Machine Learning,Video,Machine Learning,Classification,Quiz,Beginner,0,1
+S012,72,Python,Practice,Python,Collections,Practice,Intermediate,1,1
+S013,63,Data Science,Reading,Data Science,Data Cleaning,Article,Intermediate,0,1
+S014,53,Data Science,Reading,Data Science,Statistics,Article,Beginner,1,1
+S015,62,Machine Learning,Reading,Databases,Aggregation,Article,Intermediate,0,1
+S016,80,Web Development,Reading,Web Development,APIs,Article,Advanced,1,1
+S017,64,Python,Video,Python,Loops,Video,Intermediate,0,1
+S018,57,Python,Reading,Databases,SQL Basics,Practice,Intermediate,0,1
+S019,86,Data Science,Interactive,Data Science,Pandas,Quiz,Advanced,0,1
+S020,43,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Beginner,1,1
+S021,91,Machine Learning,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S022,77,Web Development,Interactive,Web Development,HTML,Quiz,Intermediate,0,1
+S023,78,Python,Video,Python,Conditions,Video,Advanced,1,1
+S024,73,Python,Practice,Python,File Handling,Practice,Intermediate,1,1
+S025,65,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Intermediate,1,1
+S026,72,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Intermediate,0,1
+S027,53,Python,Video,Databases,Joins,Video,Beginner,1,0
+S028,78,Data Science,Practice,Data Science,NumPy,Quiz,Advanced,1,1
+S029,75,Data Science,Interactive,Data Science,NumPy,Quiz,Intermediate,0,1
+S030,89,Databases,Reading,Machine Learning,Regression,Quiz,Advanced,0,0
+S031,100,Databases,Interactive,Databases,Joins,Quiz,Advanced,0,1
+S032,93,Databases,Interactive,Machine Learning,Preprocessing,Video,Advanced,1,1
+S033,57,Python,Practice,Python,Collections,Practice,Intermediate,1,1
+S034,96,Web Development,Video,Web Development,HTML,Video,Advanced,1,1
+S035,74,Python,Video,Python,Loops,Video,Intermediate,1,1
+S036,68,Web Development,Interactive,Web Development,JavaScript,Quiz,Intermediate,0,1
+S037,98,Python,Video,Python,Collections,Practice,Advanced,1,1
+S038,36,Web Development,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S039,99,Python,Reading,Python,Loops,Article,Advanced,1,1
+S040,67,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S041,62,Python,Practice,Python,Collections,Quiz,Intermediate,1,0
+S042,90,Web Development,Video,Web Development,APIs,Article,Advanced,1,0
+S043,85,Web Development,Interactive,Data Science,EDA,Quiz,Advanced,1,0
+S044,98,Python,Interactive,Python,Functions,Quiz,Advanced,0,1
+S045,88,Data Science,Interactive,Data Science,Statistics,Quiz,Advanced,0,1
+S046,56,Python,Reading,Python,Collections,Quiz,Intermediate,0,1
+S047,65,Machine Learning,Video,Machine Learning,Preprocessing,Video,Intermediate,0,1
+S048,74,Python,Interactive,Python,Loops,Quiz,Intermediate,0,1
+S049,87,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S050,72,Data Science,Reading,Data Science,EDA,Article,Intermediate,0,1
+S051,41,Databases,Interactive,Databases,SQL Basics,Quiz,Beginner,0,1
+S052,50,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S053,89,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S054,51,Web Development,Reading,Web Development,APIs,Article,Beginner,0,1
+S055,59,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,0,1
+S056,87,Databases,Interactive,Data Science,Pandas,Quiz,Advanced,0,1
+S057,67,Web Development,Practice,Databases,Database Design,Practice,Intermediate,1,0
+S058,37,Python,Video,Python,Collections,Practice,Beginner,0,1
+S059,76,Web Development,Practice,Web Development,HTML,Quiz,Intermediate,0,1
+S060,61,Machine Learning,Interactive,Python,Collections,Practice,Intermediate,0,0
+S061,41,Data Science,Video,Data Science,NumPy,Video,Beginner,0,1
+S062,79,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Advanced,1,0
+S063,90,Python,Video,Python,File Handling,Video,Advanced,0,1
+S064,86,Web Development,Practice,Web Development,Frontend Basics,Article,Advanced,1,1
+S065,59,Web Development,Reading,Web Development,APIs,Article,Intermediate,0,1
+S066,83,Data Science,Video,Machine Learning,Classification,Quiz,Advanced,0,1
+S067,59,Python,Practice,Web Development,HTML,Article,Intermediate,0,1
+S068,43,Databases,Video,Databases,Aggregation,Quiz,Beginner,0,1
+S069,63,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,0,1
+S070,86,Data Science,Reading,Data Science,Visualization,Practice,Advanced,1,1
+S071,42,Python,Practice,Data Science,NumPy,Quiz,Beginner,0,0
+S072,51,Databases,Video,Databases,SQL Basics,Practice,Beginner,0,1
+S073,95,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S074,50,Data Science,Video,Web Development,Frontend Basics,Practice,Beginner,1,0
+S075,89,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,0,1
+S076,84,Python,Video,Python,Functions,Video,Advanced,1,1
+S077,36,Python,Reading,Python,Conditions,Quiz,Beginner,1,1
+S078,35,Python,Reading,Python,Functions,Article,Beginner,1,1
+S079,59,Web Development,Interactive,Web Development,HTML,Article,Intermediate,1,1
+S080,51,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S081,97,Web Development,Reading,Web Development,JavaScript,Article,Advanced,1,1
+S082,99,Python,Video,Python,Variables,Video,Advanced,1,1
+S083,76,Machine Learning,Video,Machine Learning,Classification,Video,Intermediate,0,1
+S084,95,Web Development,Video,Web Development,CSS,Video,Advanced,0,1
+S085,72,Data Science,Practice,Data Science,Data Cleaning,Quiz,Intermediate,1,1
+S086,71,Data Science,Practice,Data Science,Data Cleaning,Practice,Intermediate,1,1
+S087,71,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,1,1
+S088,69,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,0,1
+S089,38,Python,Practice,Python,Collections,Practice,Beginner,0,1
+S090,94,Python,Practice,Python,Collections,Practice,Advanced,1,1
+S091,79,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S092,85,Machine Learning,Practice,Machine Learning,Regression,Practice,Advanced,1,1
+S093,48,Web Development,Reading,Web Development,APIs,Article,Beginner,0,1
+S094,98,Machine Learning,Interactive,Databases,Database Design,Quiz,Advanced,1,1
+S095,56,Python,Video,Databases,Joins,Video,Intermediate,0,1
+S096,51,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,0,1
+S097,73,Data Science,Video,Data Science,Statistics,Video,Intermediate,0,1
+S098,71,Databases,Practice,Databases,Aggregation,Quiz,Intermediate,0,1
+S099,93,Data Science,Reading,Web Development,JavaScript,Article,Advanced,1,0
+S100,95,Databases,Video,Databases,Joins,Video,Advanced,1,1
+S101,100,Python,Interactive,Python,Loops,Quiz,Advanced,0,1
+S102,36,Web Development,Reading,Data Science,Pandas,Article,Beginner,0,1
+S103,53,Machine Learning,Practice,Machine Learning,Classification,Quiz,Beginner,1,1
+S104,85,Machine Learning,Practice,Web Development,Frontend Basics,Quiz,Advanced,1,0
+S105,68,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S106,99,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S107,37,Databases,Reading,Data Science,Pandas,Practice,Beginner,0,0
+S108,39,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S109,89,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S110,85,Web Development,Video,Databases,Aggregation,Practice,Advanced,0,0
+S111,50,Databases,Video,Databases,Database Design,Video,Beginner,1,1
+S112,70,Data Science,Video,Data Science,Visualization,Quiz,Intermediate,1,1
+S113,69,Data Science,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,0,1
+S114,71,Python,Interactive,Python,Conditions,Quiz,Intermediate,1,1
+S115,88,Web Development,Reading,Data Science,Data Cleaning,Article,Advanced,1,1
+S116,100,Python,Practice,Python,Conditions,Practice,Advanced,1,1
+S117,57,Data Science,Video,Data Science,Data Cleaning,Video,Intermediate,0,1
+S118,64,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,0,1
+S119,68,Databases,Practice,Databases,Database Design,Article,Intermediate,0,1
+S120,55,Machine Learning,Video,Databases,Database Design,Quiz,Intermediate,0,0
+S121,56,Data Science,Reading,Data Science,Pandas,Article,Intermediate,1,1
+S122,73,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,1,1
+S123,88,Data Science,Interactive,Databases,Joins,Quiz,Advanced,0,1
+S124,78,Web Development,Practice,Machine Learning,Classification,Practice,Advanced,0,0
+S125,41,Python,Video,Python,Collections,Video,Beginner,0,1
+S126,87,Data Science,Reading,Data Science,EDA,Article,Advanced,1,1
+S127,81,Data Science,Interactive,Data Science,Statistics,Quiz,Advanced,0,1
+S128,54,Python,Video,Python,Variables,Video,Beginner,0,1
+S129,62,Machine Learning,Reading,Python,Conditions,Article,Intermediate,1,1
+S130,95,Machine Learning,Reading,Machine Learning,Regression,Article,Advanced,1,1
+S131,38,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S132,36,Data Science,Interactive,Data Science,NumPy,Quiz,Beginner,1,1
+S133,75,Python,Video,Python,Collections,Video,Intermediate,1,1
+S134,53,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S135,51,Machine Learning,Reading,Web Development,CSS,Article,Beginner,1,1
+S136,88,Databases,Practice,Databases,Aggregation,Practice,Advanced,1,1
+S137,76,Machine Learning,Reading,Machine Learning,Classification,Article,Intermediate,1,1
+S138,45,Databases,Practice,Data Science,Visualization,Practice,Beginner,0,1
+S139,50,Python,Video,Python,Functions,Video,Beginner,0,1
+S140,52,Python,Video,Python,File Handling,Quiz,Beginner,1,1
+S141,41,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Beginner,0,1
+S142,74,Data Science,Reading,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S143,50,Databases,Reading,Python,Variables,Article,Beginner,0,1
+S144,79,Web Development,Practice,Machine Learning,Clustering,Quiz,Advanced,1,0
+S145,97,Python,Reading,Databases,Aggregation,Article,Advanced,1,0
+S146,78,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,0,1
+S147,48,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,0,1
+S148,92,Machine Learning,Reading,Machine Learning,Clustering,Quiz,Advanced,1,1
+S149,72,Web Development,Interactive,Web Development,Frontend Basics,Practice,Intermediate,1,1
+S150,48,Machine Learning,Video,Web Development,HTML,Practice,Beginner,0,1
+S151,76,Databases,Reading,Databases,Database Design,Article,Intermediate,1,1
+S152,74,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Intermediate,0,1
+S153,43,Data Science,Reading,Data Science,Visualization,Article,Beginner,1,1
+S154,48,Python,Practice,Web Development,CSS,Practice,Beginner,1,1
+S155,66,Databases,Practice,Databases,SQL Basics,Practice,Intermediate,0,1
+S156,98,Python,Practice,Python,Variables,Practice,Advanced,0,1
+S157,55,Web Development,Interactive,Python,Conditions,Practice,Intermediate,1,0
+S158,39,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,0,1
+S159,84,Databases,Practice,Databases,Database Design,Practice,Advanced,0,1
+S160,91,Data Science,Practice,Data Science,NumPy,Practice,Advanced,1,1
+S161,42,Web Development,Video,Databases,Joins,Video,Beginner,0,1
+S162,41,Python,Video,Python,Collections,Video,Beginner,1,1
+S163,47,Python,Video,Python,Loops,Quiz,Beginner,1,1
+S164,82,Machine Learning,Video,Machine Learning,Classification,Video,Advanced,0,1
+S165,86,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S166,58,Databases,Video,Databases,Joins,Video,Intermediate,0,1
+S167,59,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S168,95,Python,Interactive,Python,Variables,Quiz,Advanced,1,1
+S169,78,Python,Video,Machine Learning,Classification,Practice,Advanced,0,1
+S170,95,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S171,38,Web Development,Interactive,Web Development,APIs,Video,Beginner,1,1
+S172,35,Data Science,Reading,Machine Learning,Clustering,Article,Beginner,0,1
+S173,45,Machine Learning,Reading,Machine Learning,Classification,Article,Beginner,1,1
+S174,65,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,1,1
+S175,71,Machine Learning,Video,Machine Learning,Regression,Quiz,Intermediate,0,1
+S176,84,Web Development,Reading,Data Science,Statistics,Quiz,Advanced,0,1
+S177,59,Data Science,Reading,Data Science,Visualization,Article,Intermediate,0,1
+S178,94,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S179,52,Machine Learning,Video,Machine Learning,Classification,Video,Beginner,1,1
+S180,93,Data Science,Reading,Data Science,NumPy,Practice,Advanced,1,1
+S001,46,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S002,95,Data Science,Interactive,Data Science,Statistics,Quiz,Advanced,1,0
+S003,51,Databases,Video,Databases,Aggregation,Article,Beginner,1,1
+S004,36,Data Science,Practice,Data Science,EDA,Practice,Beginner,1,1
+S005,90,Python,Interactive,Python,File Handling,Quiz,Advanced,1,1
+S006,57,Machine Learning,Reading,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S007,84,Data Science,Interactive,Databases,SQL Basics,Quiz,Advanced,1,1
+S008,77,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S009,78,Databases,Practice,Data Science,Pandas,Practice,Advanced,0,0
+S010,43,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Beginner,0,1
+S011,53,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S012,99,Web Development,Interactive,Web Development,CSS,Video,Advanced,0,1
+S013,78,Data Science,Practice,Data Science,Pandas,Practice,Advanced,1,1
+S014,51,Machine Learning,Practice,Machine Learning,Classification,Video,Beginner,1,1
+S015,80,Web Development,Reading,Python,Variables,Article,Advanced,0,1
+S016,59,Data Science,Practice,Data Science,NumPy,Quiz,Intermediate,1,1
+S017,61,Data Science,Practice,Databases,Joins,Practice,Intermediate,1,0
+S018,72,Data Science,Interactive,Data Science,NumPy,Quiz,Intermediate,0,1
+S019,38,Machine Learning,Video,Machine Learning,Classification,Article,Beginner,0,1
+S020,89,Python,Video,Python,Collections,Video,Advanced,0,1
+S021,89,Databases,Reading,Databases,Joins,Article,Advanced,1,1
+S022,68,Web Development,Reading,Data Science,Pandas,Article,Intermediate,0,1
+S023,84,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,0,1
+S024,39,Data Science,Interactive,Python,Collections,Video,Beginner,0,0
+S025,92,Databases,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,1,0
+S026,54,Python,Practice,Data Science,Statistics,Practice,Beginner,0,1
+S027,36,Databases,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S028,52,Web Development,Reading,Data Science,Data Cleaning,Article,Beginner,1,1
+S029,45,Python,Reading,Python,Functions,Practice,Beginner,0,1
+S030,74,Python,Interactive,Python,Conditions,Quiz,Intermediate,1,1
+S031,66,Machine Learning,Video,Databases,Database Design,Video,Intermediate,0,0
+S032,79,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,0,1
+S033,40,Python,Video,Machine Learning,Preprocessing,Video,Beginner,0,0
+S034,57,Machine Learning,Reading,Machine Learning,Regression,Article,Intermediate,1,1
+S035,41,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S036,98,Web Development,Practice,Python,File Handling,Quiz,Advanced,0,1
+S037,56,Python,Practice,Python,Variables,Practice,Intermediate,0,1
+S038,70,Machine Learning,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,0
+S039,78,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Advanced,1,1
+S040,58,Databases,Reading,Databases,Aggregation,Article,Intermediate,0,1
+S041,83,Databases,Reading,Databases,Database Design,Article,Advanced,1,1
+S042,78,Machine Learning,Reading,Machine Learning,Regression,Article,Advanced,0,1
+S043,55,Python,Interactive,Machine Learning,Preprocessing,Quiz,Intermediate,0,1
+S044,70,Data Science,Interactive,Web Development,APIs,Quiz,Intermediate,1,1
+S045,78,Databases,Interactive,Databases,SQL Basics,Practice,Advanced,1,1
+S046,96,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S047,67,Web Development,Reading,Web Development,CSS,Video,Intermediate,1,1
+S048,59,Data Science,Video,Data Science,Statistics,Video,Intermediate,0,1
+S049,49,Machine Learning,Video,Python,Loops,Practice,Beginner,1,0
+S050,92,Python,Video,Python,File Handling,Video,Advanced,1,1
+S051,99,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Advanced,0,1
+S052,93,Web Development,Video,Python,Variables,Video,Advanced,0,1
+S053,97,Python,Practice,Python,Variables,Quiz,Advanced,0,1
+S054,87,Python,Practice,Python,Loops,Practice,Advanced,1,1
+S055,44,Machine Learning,Reading,Machine Learning,Classification,Article,Beginner,0,1
+S056,49,Databases,Video,Python,Loops,Video,Beginner,1,0
+S057,63,Databases,Reading,Databases,Joins,Article,Intermediate,0,1
+S058,78,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,1,1
+S059,96,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S060,70,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S061,98,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S062,79,Python,Interactive,Python,Variables,Video,Advanced,1,1
+S063,76,Python,Reading,Data Science,Statistics,Article,Intermediate,1,1
+S064,63,Data Science,Practice,Data Science,Statistics,Practice,Intermediate,1,1
+S065,60,Data Science,Practice,Data Science,Pandas,Video,Intermediate,1,1
+S066,75,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,0,1
+S067,60,Machine Learning,Interactive,Databases,SQL Basics,Quiz,Intermediate,1,0
+S068,96,Data Science,Video,Data Science,NumPy,Video,Advanced,0,1
+S069,76,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S070,43,Web Development,Reading,Web Development,Frontend Basics,Article,Beginner,0,1
+S071,59,Python,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S072,79,Data Science,Interactive,Data Science,Pandas,Video,Advanced,1,1
+S073,47,Python,Practice,Python,Collections,Practice,Beginner,0,1
+S074,53,Databases,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S075,74,Machine Learning,Practice,Machine Learning,Clustering,Practice,Intermediate,1,1
+S076,67,Python,Interactive,Python,Loops,Quiz,Intermediate,1,1
+S077,86,Databases,Reading,Databases,Aggregation,Quiz,Advanced,1,1
+S078,78,Web Development,Interactive,Web Development,JavaScript,Quiz,Advanced,1,1
+S079,59,Machine Learning,Reading,Web Development,Frontend Basics,Article,Intermediate,0,0
+S080,60,Data Science,Video,Data Science,NumPy,Video,Intermediate,1,1
+S081,41,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,0,1
+S082,93,Python,Practice,Data Science,Pandas,Practice,Advanced,1,0
+S083,44,Data Science,Video,Data Science,Visualization,Video,Beginner,0,1
+S084,44,Databases,Video,Databases,Aggregation,Quiz,Beginner,1,1
+S085,63,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S086,60,Python,Interactive,Python,Loops,Quiz,Intermediate,1,1
+S087,35,Data Science,Reading,Data Science,NumPy,Article,Beginner,1,1
+S088,96,Data Science,Practice,Data Science,NumPy,Quiz,Advanced,1,0
+S089,93,Machine Learning,Interactive,Databases,Joins,Quiz,Advanced,1,0
+S090,66,Python,Reading,Python,Functions,Article,Intermediate,0,1
+S091,100,Web Development,Video,Web Development,Frontend Basics,Video,Advanced,1,1
+S092,42,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Beginner,1,1
+S093,96,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,1,1
+S094,84,Python,Interactive,Data Science,Pandas,Article,Advanced,0,0
+S095,46,Databases,Reading,Web Development,APIs,Practice,Beginner,0,0
+S096,62,Databases,Video,Databases,Database Design,Quiz,Intermediate,0,1
+S097,81,Data Science,Practice,Databases,Joins,Practice,Advanced,1,0
+S098,79,Databases,Video,Databases,SQL Basics,Practice,Advanced,0,1
+S099,83,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,0,1
+S100,47,Web Development,Practice,Web Development,CSS,Practice,Beginner,0,1
+S101,83,Web Development,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S102,100,Web Development,Interactive,Python,Conditions,Quiz,Advanced,0,0
+S103,61,Python,Reading,Python,Conditions,Video,Intermediate,1,1
+S104,74,Web Development,Reading,Web Development,CSS,Article,Intermediate,0,1
+S105,49,Web Development,Reading,Databases,Database Design,Article,Beginner,0,1
+S106,86,Python,Reading,Python,Loops,Practice,Advanced,0,1
+S107,38,Machine Learning,Reading,Databases,Aggregation,Article,Beginner,1,0
+S108,86,Python,Practice,Web Development,HTML,Practice,Advanced,0,1
+S109,84,Python,Practice,Databases,Database Design,Practice,Advanced,0,0
+S110,68,Python,Practice,Python,Conditions,Practice,Intermediate,1,1
+S111,87,Data Science,Reading,Databases,Database Design,Article,Advanced,1,0
+S112,64,Databases,Interactive,Data Science,Visualization,Practice,Intermediate,0,0
+S113,66,Data Science,Video,Data Science,EDA,Video,Intermediate,1,1
+S114,86,Databases,Practice,Databases,Aggregation,Practice,Advanced,1,1
+S115,57,Data Science,Reading,Data Science,Pandas,Quiz,Intermediate,1,0
+S116,81,Python,Practice,Python,File Handling,Practice,Advanced,0,1
+S117,84,Databases,Video,Databases,Database Design,Practice,Advanced,0,1
+S118,49,Web Development,Reading,Machine Learning,Model Evaluation,Article,Beginner,0,1
+S119,87,Web Development,Video,Web Development,CSS,Article,Advanced,1,1
+S120,96,Data Science,Practice,Data Science,Visualization,Practice,Advanced,0,1
+S121,93,Python,Reading,Web Development,HTML,Article,Advanced,0,0
+S122,94,Databases,Reading,Python,Conditions,Article,Advanced,0,1
+S123,42,Data Science,Video,Data Science,Pandas,Video,Beginner,1,1
+S124,83,Machine Learning,Video,Machine Learning,Model Evaluation,Quiz,Advanced,0,1
+S125,82,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,0,1
+S126,86,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S127,80,Databases,Video,Databases,Database Design,Video,Advanced,0,1
+S128,77,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Intermediate,0,1
+S129,76,Data Science,Video,Data Science,Pandas,Video,Intermediate,1,1
+S130,71,Web Development,Practice,Web Development,APIs,Practice,Intermediate,0,1
+S131,49,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Beginner,1,1
+S132,37,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Beginner,0,1
+S133,67,Web Development,Practice,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S134,66,Data Science,Reading,Python,Collections,Article,Intermediate,1,0
+S135,46,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S136,70,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,1,1
+S137,46,Python,Video,Python,File Handling,Video,Beginner,0,1
+S138,45,Data Science,Interactive,Data Science,Visualization,Quiz,Beginner,0,1
+S139,49,Databases,Reading,Databases,Database Design,Article,Beginner,0,1
+S140,35,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Beginner,1,1
+S141,48,Databases,Practice,Databases,Joins,Practice,Beginner,1,1
+S142,64,Databases,Practice,Data Science,Statistics,Practice,Intermediate,1,0
+S143,40,Web Development,Practice,Web Development,JavaScript,Practice,Beginner,0,1
+S144,57,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S145,38,Data Science,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S146,51,Python,Practice,Python,Conditions,Practice,Beginner,0,1
+S147,36,Python,Video,Python,Collections,Video,Beginner,0,1
+S148,39,Web Development,Interactive,Machine Learning,Regression,Quiz,Beginner,1,1
+S149,71,Python,Interactive,Python,Loops,Video,Intermediate,0,1
+S150,97,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,0,1
+S151,83,Web Development,Video,Web Development,CSS,Article,Advanced,0,0
+S152,51,Web Development,Practice,Machine Learning,Clustering,Practice,Beginner,0,0
+S153,74,Python,Video,Python,Functions,Video,Intermediate,0,1
+S154,40,Python,Practice,Python,Loops,Practice,Beginner,1,1
+S155,55,Databases,Practice,Machine Learning,Preprocessing,Video,Intermediate,1,0
+S156,99,Databases,Interactive,Databases,SQL Basics,Video,Advanced,0,0
+S157,62,Web Development,Practice,Web Development,JavaScript,Video,Intermediate,1,1
+S158,91,Python,Practice,Python,Conditions,Practice,Advanced,1,1
+S159,36,Python,Reading,Python,Collections,Article,Beginner,1,1
+S160,83,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Advanced,1,1
+S161,73,Web Development,Video,Web Development,CSS,Article,Intermediate,1,1
+S162,40,Databases,Interactive,Databases,Joins,Quiz,Beginner,0,1
+S163,44,Web Development,Reading,Web Development,APIs,Quiz,Beginner,1,1
+S164,87,Python,Interactive,Python,Loops,Quiz,Advanced,0,1
+S165,44,Databases,Video,Databases,Joins,Video,Beginner,1,1
+S166,48,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Beginner,0,1
+S167,75,Data Science,Reading,Data Science,Visualization,Article,Intermediate,1,1
+S168,57,Machine Learning,Reading,Machine Learning,Regression,Video,Intermediate,0,1
+S169,44,Data Science,Video,Data Science,EDA,Video,Beginner,1,1
+S170,86,Data Science,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S171,86,Web Development,Reading,Web Development,APIs,Practice,Advanced,1,1
+S172,71,Python,Interactive,Python,File Handling,Article,Intermediate,0,1
+S173,90,Python,Video,Python,Variables,Article,Advanced,0,1
+S174,97,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Advanced,1,1
+S175,83,Machine Learning,Interactive,Python,File Handling,Quiz,Advanced,0,0
+S176,43,Data Science,Interactive,Python,Loops,Quiz,Beginner,0,1
+S177,81,Data Science,Reading,Data Science,Pandas,Article,Advanced,1,1
+S178,46,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,0,1
+S179,65,Data Science,Reading,Data Science,Visualization,Video,Intermediate,1,1
+S180,63,Python,Reading,Python,File Handling,Article,Intermediate,1,1
+S001,84,Python,Reading,Python,Collections,Practice,Advanced,0,1
+S002,82,Machine Learning,Reading,Web Development,JavaScript,Article,Advanced,0,1
+S003,46,Machine Learning,Reading,Machine Learning,Clustering,Video,Beginner,1,1
+S004,42,Data Science,Reading,Data Science,Statistics,Article,Beginner,0,1
+S005,95,Data Science,Reading,Data Science,Pandas,Article,Advanced,0,1
+S006,36,Data Science,Reading,Data Science,EDA,Practice,Beginner,0,1
+S007,70,Databases,Video,Databases,Database Design,Practice,Intermediate,1,1
+S008,63,Web Development,Interactive,Databases,SQL Basics,Quiz,Intermediate,0,0
+S009,100,Python,Video,Databases,Database Design,Video,Advanced,0,1
+S010,87,Web Development,Reading,Web Development,APIs,Article,Advanced,0,1
+S011,78,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S012,52,Databases,Reading,Machine Learning,Preprocessing,Article,Beginner,1,0
+S013,51,Machine Learning,Video,Machine Learning,Classification,Video,Beginner,0,1
+S014,66,Machine Learning,Interactive,Machine Learning,Classification,Video,Intermediate,1,1
+S015,45,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S016,52,Databases,Video,Databases,Joins,Video,Beginner,0,1
+S017,74,Python,Video,Web Development,CSS,Video,Intermediate,0,1
+S018,42,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,0,1
+S019,82,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,0,1
+S020,85,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Advanced,1,1
+S021,55,Databases,Practice,Databases,Joins,Practice,Intermediate,0,1
+S022,91,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,1,1
+S023,57,Python,Reading,Python,Variables,Video,Intermediate,1,1
+S024,44,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,0,1
+S025,65,Databases,Reading,Databases,SQL Basics,Article,Intermediate,0,1
+S026,76,Python,Video,Python,Conditions,Video,Intermediate,0,1
+S027,54,Machine Learning,Reading,Python,Loops,Quiz,Beginner,1,0
+S028,63,Web Development,Practice,Web Development,APIs,Practice,Intermediate,1,1
+S029,36,Python,Video,Machine Learning,Classification,Quiz,Beginner,1,0
+S030,75,Machine Learning,Interactive,Databases,Database Design,Video,Intermediate,0,0
+S031,45,Web Development,Interactive,Web Development,CSS,Quiz,Beginner,0,1
+S032,81,Python,Practice,Python,Collections,Video,Advanced,1,1
+S033,54,Python,Practice,Web Development,CSS,Practice,Beginner,0,1
+S034,37,Web Development,Video,Data Science,Visualization,Video,Beginner,1,0
+S035,84,Web Development,Video,Web Development,CSS,Video,Advanced,0,1
+S036,71,Web Development,Reading,Web Development,JavaScript,Quiz,Intermediate,1,1
+S037,35,Data Science,Video,Data Science,Data Cleaning,Video,Beginner,0,1
+S038,67,Databases,Video,Python,Collections,Video,Intermediate,0,1
+S039,52,Data Science,Video,Machine Learning,Regression,Video,Beginner,0,0
+S040,73,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,1
+S041,48,Python,Interactive,Python,Collections,Quiz,Beginner,1,1
+S042,39,Databases,Reading,Python,Collections,Video,Beginner,0,1
+S043,39,Web Development,Video,Web Development,Frontend Basics,Video,Beginner,1,0
+S044,71,Databases,Reading,Databases,Joins,Article,Intermediate,1,1
+S045,61,Python,Interactive,Databases,Database Design,Quiz,Intermediate,0,1
+S046,95,Python,Practice,Python,Functions,Practice,Advanced,0,1
+S047,65,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,0,1
+S048,88,Python,Interactive,Python,Variables,Quiz,Advanced,0,1
+S049,50,Web Development,Practice,Web Development,HTML,Practice,Beginner,0,1
+S050,52,Python,Video,Python,File Handling,Video,Beginner,0,1
+S051,72,Databases,Video,Databases,Joins,Practice,Intermediate,0,1
+S052,60,Machine Learning,Practice,Machine Learning,Preprocessing,Quiz,Intermediate,1,1
+S053,48,Data Science,Video,Data Science,Visualization,Video,Beginner,1,1
+S054,80,Machine Learning,Reading,Data Science,EDA,Article,Advanced,1,1
+S055,50,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,1,1
+S056,85,Python,Video,Python,Collections,Practice,Advanced,0,1
+S057,76,Python,Interactive,Python,File Handling,Practice,Intermediate,1,1
+S058,47,Databases,Interactive,Databases,Aggregation,Article,Beginner,0,1
+S059,67,Data Science,Video,Data Science,Statistics,Video,Intermediate,0,1
+S060,38,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S061,47,Web Development,Interactive,Web Development,APIs,Quiz,Beginner,1,1
+S062,41,Web Development,Reading,Web Development,HTML,Quiz,Beginner,1,1
+S063,47,Data Science,Interactive,Data Science,EDA,Quiz,Beginner,1,1
+S064,82,Machine Learning,Video,Data Science,Data Cleaning,Video,Advanced,1,1
+S065,86,Data Science,Video,Data Science,NumPy,Video,Advanced,1,1
+S066,50,Databases,Video,Databases,Database Design,Article,Beginner,1,1
+S067,87,Data Science,Interactive,Data Science,Visualization,Quiz,Advanced,0,1
+S068,95,Web Development,Practice,Machine Learning,Model Evaluation,Practice,Advanced,1,1
+S069,67,Data Science,Practice,Data Science,Visualization,Quiz,Intermediate,0,1
+S070,38,Web Development,Interactive,Databases,Database Design,Quiz,Beginner,1,1
+S071,62,Web Development,Reading,Web Development,APIs,Article,Intermediate,0,1
+S072,36,Data Science,Video,Data Science,NumPy,Video,Beginner,0,1
+S073,59,Python,Reading,Python,Collections,Article,Intermediate,1,1
+S074,97,Python,Interactive,Python,File Handling,Quiz,Advanced,1,1
+S075,36,Databases,Practice,Web Development,JavaScript,Video,Beginner,0,0
+S076,55,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S077,59,Machine Learning,Video,Data Science,Statistics,Video,Intermediate,1,1
+S078,67,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,1,1
+S079,50,Databases,Reading,Databases,SQL Basics,Article,Beginner,1,1
+S080,84,Web Development,Practice,Web Development,HTML,Practice,Advanced,1,1
+S081,65,Web Development,Reading,Web Development,HTML,Article,Intermediate,0,1
+S082,59,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S083,58,Data Science,Video,Data Science,Statistics,Video,Intermediate,1,1
+S084,45,Machine Learning,Video,Machine Learning,Regression,Article,Beginner,1,1
+S085,43,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S086,72,Databases,Interactive,Databases,Database Design,Quiz,Intermediate,0,1
+S087,41,Machine Learning,Video,Machine Learning,Preprocessing,Video,Beginner,1,1
+S088,93,Machine Learning,Reading,Web Development,CSS,Video,Advanced,0,0
+S089,59,Databases,Interactive,Data Science,Pandas,Practice,Intermediate,1,1
+S090,96,Databases,Video,Databases,Aggregation,Video,Advanced,0,1
+S091,79,Python,Video,Python,Conditions,Video,Advanced,1,1
+S092,69,Databases,Video,Databases,Aggregation,Video,Intermediate,0,1
+S093,82,Web Development,Interactive,Data Science,Pandas,Quiz,Advanced,0,1
+S094,83,Python,Practice,Data Science,Data Cleaning,Video,Advanced,1,0
+S095,60,Data Science,Practice,Data Science,Visualization,Video,Intermediate,0,0
+S096,85,Data Science,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S097,72,Databases,Practice,Python,Loops,Practice,Intermediate,0,0
+S098,72,Data Science,Reading,Data Science,EDA,Article,Intermediate,0,1
+S099,66,Web Development,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S100,45,Databases,Practice,Databases,Joins,Article,Beginner,0,1
+S101,51,Data Science,Video,Data Science,Pandas,Video,Beginner,1,1
+S102,67,Data Science,Interactive,Data Science,Statistics,Quiz,Intermediate,0,1
+S103,91,Databases,Practice,Databases,Database Design,Practice,Advanced,1,1
+S104,65,Data Science,Video,Databases,SQL Basics,Video,Intermediate,1,1
+S105,51,Web Development,Interactive,Web Development,HTML,Video,Beginner,1,1
+S106,100,Data Science,Reading,Data Science,EDA,Article,Advanced,1,1
+S107,79,Data Science,Reading,Data Science,Data Cleaning,Practice,Advanced,1,1
+S108,69,Python,Interactive,Python,Loops,Quiz,Intermediate,0,1
+S109,52,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Beginner,0,1
+S110,100,Python,Practice,Python,Functions,Video,Advanced,1,1
+S111,48,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,0,1
+S112,70,Python,Interactive,Python,Collections,Article,Intermediate,1,1
+S113,69,Machine Learning,Practice,Machine Learning,Clustering,Practice,Intermediate,1,1
+S114,36,Python,Practice,Machine Learning,Regression,Article,Beginner,0,0
+S115,45,Data Science,Interactive,Databases,Joins,Quiz,Beginner,0,0
+S116,77,Web Development,Video,Web Development,APIs,Video,Intermediate,0,1
+S117,41,Web Development,Practice,Web Development,HTML,Practice,Beginner,1,1
+S118,70,Machine Learning,Reading,Web Development,APIs,Quiz,Intermediate,0,0
+S119,88,Data Science,Interactive,Data Science,Statistics,Quiz,Advanced,1,1
+S120,85,Python,Reading,Data Science,Visualization,Article,Advanced,0,0
+S121,51,Machine Learning,Practice,Machine Learning,Regression,Practice,Beginner,1,1
+S122,48,Python,Interactive,Python,Variables,Quiz,Beginner,0,1
+S123,53,Python,Reading,Python,Functions,Article,Beginner,1,1
+S124,38,Databases,Interactive,Data Science,EDA,Video,Beginner,0,0
+S125,69,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S126,80,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Advanced,1,1
+S127,47,Web Development,Interactive,Web Development,HTML,Quiz,Beginner,1,1
+S128,73,Data Science,Practice,Data Science,Data Cleaning,Video,Intermediate,1,1
+S129,63,Machine Learning,Reading,Data Science,Pandas,Article,Intermediate,1,0
+S130,48,Databases,Practice,Databases,Joins,Practice,Beginner,1,1
+S131,41,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Beginner,0,1
+S132,49,Data Science,Video,Data Science,Statistics,Video,Beginner,0,1
+S133,49,Python,Video,Python,File Handling,Video,Beginner,0,1
+S134,47,Python,Video,Python,Variables,Video,Beginner,0,1
+S135,36,Data Science,Video,Machine Learning,Classification,Video,Beginner,0,1
+S136,75,Python,Practice,Python,Functions,Practice,Intermediate,1,1
+S137,92,Machine Learning,Practice,Machine Learning,Regression,Practice,Advanced,0,1
+S138,100,Databases,Practice,Databases,Joins,Quiz,Advanced,1,1
+S139,72,Python,Interactive,Python,Loops,Quiz,Intermediate,0,1
+S140,56,Python,Video,Python,Loops,Practice,Intermediate,0,1
+S141,71,Web Development,Video,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S142,62,Data Science,Practice,Data Science,Visualization,Quiz,Intermediate,1,1
+S143,82,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,1,1
+S144,51,Data Science,Video,Data Science,Statistics,Video,Beginner,1,1
+S145,78,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S146,92,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S147,47,Web Development,Reading,Web Development,JavaScript,Article,Beginner,0,1
+S148,87,Databases,Video,Data Science,NumPy,Video,Advanced,0,0
+S149,56,Data Science,Video,Data Science,Data Cleaning,Video,Intermediate,1,1
+S150,51,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S151,82,Python,Practice,Web Development,CSS,Practice,Advanced,1,1
+S152,39,Python,Reading,Python,Conditions,Article,Beginner,0,1
+S153,74,Web Development,Video,Data Science,EDA,Video,Intermediate,0,1
+S154,89,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S155,65,Data Science,Video,Web Development,JavaScript,Video,Intermediate,1,1
+S156,40,Data Science,Reading,Machine Learning,Regression,Article,Beginner,1,1
+S157,92,Web Development,Video,Machine Learning,Regression,Video,Advanced,0,1
+S158,74,Data Science,Reading,Data Science,Visualization,Article,Intermediate,0,1
+S159,91,Python,Practice,Python,File Handling,Article,Advanced,0,1
+S160,50,Python,Practice,Python,Loops,Practice,Beginner,1,1
+S161,76,Python,Video,Python,Functions,Practice,Intermediate,0,1
+S162,77,Web Development,Video,Machine Learning,Regression,Article,Intermediate,0,0
+S163,75,Python,Practice,Python,Collections,Practice,Intermediate,0,1
+S164,52,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S165,39,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,0,1
+S166,36,Python,Interactive,Web Development,CSS,Video,Beginner,1,0
+S167,35,Web Development,Practice,Web Development,CSS,Practice,Beginner,0,1
+S168,78,Databases,Interactive,Data Science,Pandas,Quiz,Advanced,1,0
+S169,71,Data Science,Interactive,Data Science,Visualization,Video,Intermediate,1,0
+S170,94,Python,Video,Python,Loops,Video,Advanced,1,1
+S171,97,Data Science,Video,Data Science,Statistics,Practice,Advanced,0,1
+S172,56,Web Development,Reading,Web Development,JavaScript,Video,Intermediate,0,1
+S173,81,Data Science,Video,Data Science,Data Cleaning,Video,Advanced,0,1
+S174,88,Web Development,Reading,Web Development,APIs,Article,Advanced,1,1
+S175,64,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,0,1
+S176,83,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,0,1
+S177,68,Web Development,Practice,Data Science,Visualization,Video,Intermediate,0,0
+S178,46,Python,Video,Data Science,EDA,Article,Beginner,1,0
+S179,44,Python,Interactive,Python,Collections,Quiz,Beginner,0,1
+S180,43,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Beginner,0,1
+S001,65,Data Science,Video,Web Development,Frontend Basics,Video,Intermediate,1,1
+S002,39,Python,Practice,Python,Functions,Practice,Beginner,1,1
+S003,100,Python,Video,Python,Conditions,Quiz,Advanced,0,1
+S004,92,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S005,88,Web Development,Reading,Web Development,CSS,Article,Advanced,1,1
+S006,92,Python,Practice,Python,Variables,Practice,Advanced,0,1
+S007,67,Data Science,Practice,Data Science,EDA,Practice,Intermediate,0,1
+S008,45,Machine Learning,Interactive,Machine Learning,Classification,Practice,Beginner,1,1
+S009,90,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S010,58,Python,Interactive,Python,Functions,Quiz,Intermediate,1,1
+S011,51,Databases,Reading,Databases,Aggregation,Article,Beginner,0,1
+S012,88,Data Science,Practice,Data Science,EDA,Practice,Advanced,1,1
+S013,47,Databases,Reading,Databases,Joins,Article,Beginner,0,1
+S014,59,Python,Video,Python,Functions,Video,Intermediate,0,1
+S015,58,Databases,Practice,Databases,SQL Basics,Practice,Intermediate,1,1
+S016,43,Web Development,Video,Web Development,CSS,Video,Beginner,0,1
+S017,66,Machine Learning,Practice,Databases,Joins,Practice,Intermediate,1,1
+S018,88,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,0,1
+S019,45,Python,Practice,Python,Variables,Practice,Beginner,1,1
+S020,47,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S021,77,Databases,Practice,Databases,SQL Basics,Quiz,Intermediate,0,1
+S022,56,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S023,45,Python,Video,Python,Variables,Video,Beginner,0,1
+S024,63,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S025,35,Databases,Interactive,Data Science,Data Cleaning,Quiz,Beginner,0,1
+S026,66,Python,Reading,Python,File Handling,Video,Intermediate,1,1
+S027,48,Databases,Video,Databases,SQL Basics,Video,Beginner,0,1
+S028,71,Databases,Reading,Databases,Aggregation,Article,Intermediate,0,1
+S029,41,Databases,Video,Databases,SQL Basics,Video,Beginner,1,1
+S030,87,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,1,1
+S031,73,Data Science,Reading,Databases,Aggregation,Article,Intermediate,0,0
+S032,47,Machine Learning,Reading,Machine Learning,Regression,Practice,Beginner,0,1
+S033,83,Python,Interactive,Python,Loops,Quiz,Advanced,1,1
+S034,87,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,1,1
+S035,94,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S036,66,Data Science,Video,Data Science,Statistics,Video,Intermediate,1,1
+S037,92,Data Science,Practice,Data Science,EDA,Practice,Advanced,1,1
+S038,43,Web Development,Video,Web Development,CSS,Video,Beginner,1,1
+S039,59,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S040,97,Databases,Video,Databases,Joins,Practice,Advanced,1,1
+S041,80,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Advanced,1,1
+S042,61,Web Development,Practice,Databases,SQL Basics,Video,Intermediate,1,0
+S043,42,Databases,Reading,Databases,Aggregation,Article,Beginner,1,1
+S044,67,Databases,Interactive,Machine Learning,Classification,Quiz,Intermediate,1,0
+S045,82,Databases,Video,Databases,Aggregation,Video,Advanced,1,1
+S046,54,Machine Learning,Reading,Machine Learning,Classification,Quiz,Beginner,1,1
+S047,91,Python,Reading,Python,Conditions,Article,Advanced,1,1
+S048,79,Python,Practice,Data Science,EDA,Practice,Advanced,1,0
+S049,99,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S050,64,Machine Learning,Video,Machine Learning,Regression,Video,Intermediate,1,1
+S051,59,Python,Reading,Python,File Handling,Quiz,Intermediate,1,1
+S052,37,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S053,86,Python,Interactive,Python,Functions,Quiz,Advanced,0,1
+S054,87,Web Development,Reading,Web Development,JavaScript,Article,Advanced,0,1
+S055,54,Web Development,Interactive,Web Development,CSS,Quiz,Beginner,1,1
+S056,65,Web Development,Reading,Web Development,JavaScript,Article,Intermediate,1,1
+S057,96,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S058,81,Data Science,Practice,Databases,Aggregation,Practice,Advanced,0,1
+S059,69,Databases,Practice,Databases,Database Design,Video,Intermediate,1,1
+S060,62,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S061,82,Python,Practice,Python,File Handling,Article,Advanced,1,1
+S062,98,Web Development,Video,Web Development,JavaScript,Practice,Advanced,0,1
+S063,75,Databases,Video,Databases,Database Design,Quiz,Intermediate,1,1
+S064,42,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Beginner,1,1
+S065,59,Databases,Interactive,Databases,SQL Basics,Quiz,Intermediate,1,1
+S066,45,Python,Reading,Python,Variables,Article,Beginner,1,1
+S067,50,Data Science,Practice,Databases,SQL Basics,Quiz,Beginner,0,0
+S068,66,Data Science,Interactive,Data Science,EDA,Quiz,Intermediate,1,1
+S069,77,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S070,67,Machine Learning,Practice,Data Science,Statistics,Practice,Intermediate,1,0
+S071,94,Web Development,Reading,Web Development,HTML,Practice,Advanced,1,1
+S072,90,Databases,Video,Databases,Aggregation,Video,Advanced,1,1
+S073,53,Databases,Reading,Databases,Joins,Article,Beginner,0,1
+S074,37,Web Development,Practice,Python,Variables,Article,Beginner,0,0
+S075,60,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S076,50,Python,Interactive,Python,Conditions,Quiz,Beginner,0,1
+S077,63,Databases,Reading,Databases,SQL Basics,Article,Intermediate,0,1
+S078,85,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,1,1
+S079,78,Python,Practice,Python,Loops,Quiz,Advanced,1,1
+S080,59,Web Development,Interactive,Web Development,JavaScript,Article,Intermediate,1,1
+S081,64,Machine Learning,Practice,Web Development,APIs,Practice,Intermediate,1,1
+S082,77,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S083,73,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,1,1
+S084,77,Machine Learning,Reading,Machine Learning,Classification,Quiz,Intermediate,0,1
+S085,53,Web Development,Reading,Web Development,APIs,Article,Beginner,0,1
+S086,48,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S087,93,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S088,51,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Beginner,0,1
+S089,60,Data Science,Interactive,Data Science,Statistics,Quiz,Intermediate,0,1
+S090,96,Web Development,Reading,Python,Loops,Article,Advanced,0,1
+S091,39,Databases,Practice,Databases,SQL Basics,Practice,Beginner,1,1
+S092,41,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,1,1
+S093,50,Web Development,Practice,Web Development,HTML,Practice,Beginner,0,1
+S094,54,Web Development,Reading,Web Development,CSS,Article,Beginner,0,1
+S095,62,Python,Practice,Python,Conditions,Practice,Intermediate,0,1
+S096,79,Python,Interactive,Python,Conditions,Quiz,Advanced,0,1
+S097,84,Databases,Interactive,Web Development,JavaScript,Article,Advanced,1,1
+S098,45,Machine Learning,Practice,Machine Learning,Classification,Video,Beginner,0,1
+S099,91,Web Development,Interactive,Web Development,APIs,Video,Advanced,1,1
+S100,64,Data Science,Practice,Data Science,Statistics,Practice,Intermediate,1,1
+S101,82,Web Development,Reading,Databases,Joins,Article,Advanced,0,1
+S102,68,Python,Video,Python,Collections,Video,Intermediate,1,1
+S103,73,Web Development,Video,Web Development,CSS,Video,Intermediate,1,1
+S104,65,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S105,44,Data Science,Interactive,Data Science,NumPy,Quiz,Beginner,0,1
+S106,87,Data Science,Video,Data Science,Data Cleaning,Article,Advanced,0,1
+S107,98,Web Development,Practice,Web Development,CSS,Practice,Advanced,0,1
+S108,40,Python,Interactive,Machine Learning,Clustering,Quiz,Beginner,0,0
+S109,49,Databases,Practice,Databases,Joins,Practice,Beginner,1,1
+S110,81,Python,Practice,Python,Functions,Practice,Advanced,0,1
+S111,42,Python,Practice,Python,Functions,Quiz,Beginner,0,1
+S112,53,Python,Video,Python,Variables,Video,Beginner,0,1
+S113,78,Python,Practice,Python,Loops,Practice,Advanced,1,1
+S114,72,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S115,44,Web Development,Practice,Python,Conditions,Practice,Beginner,1,0
+S116,71,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,0,1
+S117,76,Data Science,Reading,Data Science,EDA,Article,Intermediate,1,1
+S118,40,Data Science,Reading,Data Science,Pandas,Article,Beginner,1,1
+S119,80,Web Development,Practice,Web Development,CSS,Practice,Advanced,1,1
+S120,77,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,1,1
+S121,59,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,1
+S122,79,Python,Practice,Python,Loops,Practice,Advanced,1,1
+S123,57,Machine Learning,Reading,Python,Variables,Article,Intermediate,0,0
+S124,65,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,0,1
+S125,77,Machine Learning,Reading,Machine Learning,Model Evaluation,Video,Intermediate,0,1
+S126,69,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,0,1
+S127,100,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,1,1
+S128,69,Python,Interactive,Python,Loops,Quiz,Intermediate,1,1
+S129,92,Python,Video,Python,Loops,Video,Advanced,1,1
+S130,70,Databases,Practice,Databases,SQL Basics,Quiz,Intermediate,0,1
+S131,89,Databases,Video,Databases,Aggregation,Article,Advanced,0,1
+S132,55,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,1,1
+S133,92,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,1,1
+S134,84,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,1,1
+S135,81,Data Science,Video,Data Science,EDA,Video,Advanced,0,1
+S136,67,Data Science,Reading,Data Science,Data Cleaning,Article,Intermediate,0,1
+S137,89,Python,Reading,Data Science,EDA,Article,Advanced,0,1
+S138,42,Machine Learning,Practice,Databases,Joins,Practice,Beginner,0,0
+S139,100,Web Development,Video,Python,Conditions,Video,Advanced,0,1
+S140,80,Data Science,Interactive,Data Science,NumPy,Quiz,Advanced,0,1
+S141,39,Python,Practice,Python,Loops,Practice,Beginner,0,1
+S142,76,Machine Learning,Video,Machine Learning,Preprocessing,Video,Intermediate,1,1
+S143,40,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,1,0
+S144,63,Data Science,Video,Data Science,NumPy,Article,Intermediate,1,1
+S145,82,Machine Learning,Video,Machine Learning,Classification,Video,Advanced,0,1
+S146,64,Python,Video,Python,File Handling,Video,Intermediate,0,1
+S147,50,Data Science,Practice,Data Science,Data Cleaning,Practice,Beginner,0,1
+S148,50,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Beginner,0,1
+S149,72,Databases,Practice,Databases,Joins,Practice,Intermediate,0,1
+S150,94,Data Science,Video,Data Science,Visualization,Video,Advanced,0,1
+S151,97,Databases,Practice,Databases,Joins,Practice,Advanced,1,1
+S152,46,Data Science,Reading,Data Science,EDA,Article,Beginner,1,1
+S153,55,Machine Learning,Reading,Python,Functions,Practice,Intermediate,0,0
+S154,79,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S155,82,Python,Practice,Data Science,NumPy,Practice,Advanced,0,1
+S156,91,Machine Learning,Reading,Machine Learning,Regression,Article,Advanced,1,1
+S157,83,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S158,53,Python,Interactive,Python,Functions,Quiz,Beginner,1,1
+S159,74,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,1,1
+S160,72,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Intermediate,0,1
+S161,42,Data Science,Reading,Data Science,Visualization,Article,Beginner,1,1
+S162,79,Python,Video,Python,Variables,Quiz,Advanced,1,0
+S163,48,Python,Reading,Python,Conditions,Article,Beginner,0,1
+S164,54,Web Development,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S165,98,Web Development,Practice,Web Development,HTML,Practice,Advanced,1,1
+S166,93,Web Development,Interactive,Web Development,Frontend Basics,Article,Advanced,0,1
+S167,98,Data Science,Reading,Data Science,Statistics,Quiz,Advanced,1,1
+S168,62,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Intermediate,1,1
+S169,94,Web Development,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S170,36,Machine Learning,Video,Machine Learning,Regression,Practice,Beginner,0,1
+S171,69,Web Development,Video,Web Development,HTML,Video,Intermediate,0,1
+S172,41,Python,Practice,Python,Variables,Practice,Beginner,1,1
+S173,63,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,1,1
+S174,79,Python,Reading,Python,Variables,Article,Advanced,1,1
+S175,61,Data Science,Video,Data Science,Pandas,Video,Intermediate,0,1
+S176,77,Machine Learning,Video,Data Science,EDA,Quiz,Intermediate,0,0
+S177,71,Data Science,Practice,Data Science,NumPy,Practice,Intermediate,1,1
+S178,43,Databases,Reading,Databases,Database Design,Article,Beginner,1,1
+S179,43,Databases,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S180,75,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,1,1
+S001,46,Python,Practice,Python,Collections,Video,Beginner,1,1
+S002,84,Data Science,Video,Python,Variables,Video,Advanced,1,1
+S003,81,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S004,40,Python,Practice,Python,Conditions,Article,Beginner,1,1
+S005,84,Data Science,Reading,Data Science,NumPy,Article,Advanced,1,1
+S006,46,Databases,Reading,Databases,Database Design,Article,Beginner,1,1
+S007,86,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S008,76,Web Development,Video,Web Development,APIs,Video,Intermediate,0,1
+S009,65,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Intermediate,1,1
+S010,44,Databases,Reading,Databases,Joins,Quiz,Beginner,1,1
+S011,65,Databases,Reading,Python,Functions,Quiz,Intermediate,1,0
+S012,96,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S013,84,Machine Learning,Reading,Databases,SQL Basics,Quiz,Advanced,1,0
+S014,68,Machine Learning,Interactive,Databases,SQL Basics,Article,Intermediate,1,0
+S015,75,Python,Video,Python,Variables,Video,Intermediate,1,1
+S016,73,Databases,Interactive,Databases,SQL Basics,Quiz,Intermediate,0,1
+S017,73,Machine Learning,Reading,Python,Collections,Article,Intermediate,0,1
+S018,80,Machine Learning,Reading,Machine Learning,Regression,Quiz,Advanced,0,1
+S019,43,Data Science,Video,Data Science,Pandas,Article,Beginner,0,1
+S020,87,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S021,88,Web Development,Interactive,Machine Learning,Model Evaluation,Article,Advanced,1,1
+S022,38,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Beginner,1,1
+S023,50,Data Science,Interactive,Data Science,Statistics,Article,Beginner,0,1
+S024,79,Python,Video,Python,File Handling,Video,Advanced,1,1
+S025,43,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Beginner,1,1
+S026,100,Web Development,Practice,Data Science,Statistics,Quiz,Advanced,1,1
+S027,78,Python,Reading,Python,Collections,Practice,Advanced,1,1
+S028,67,Web Development,Video,Databases,Aggregation,Video,Intermediate,1,1
+S029,84,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,0,1
+S030,37,Web Development,Reading,Web Development,JavaScript,Article,Beginner,0,1
+S031,46,Web Development,Video,Python,Conditions,Video,Beginner,0,1
+S032,54,Web Development,Video,Web Development,CSS,Quiz,Beginner,1,1
+S033,89,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S034,78,Web Development,Practice,Web Development,CSS,Practice,Advanced,0,1
+S035,90,Web Development,Interactive,Data Science,NumPy,Quiz,Advanced,1,0
+S036,94,Machine Learning,Reading,Web Development,JavaScript,Article,Advanced,1,1
+S037,38,Data Science,Video,Python,Functions,Video,Beginner,1,1
+S038,35,Web Development,Practice,Web Development,Frontend Basics,Practice,Beginner,1,1
+S039,50,Machine Learning,Video,Machine Learning,Clustering,Video,Beginner,1,1
+S040,50,Python,Interactive,Python,Variables,Article,Beginner,1,0
+S041,73,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,1,1
+S042,65,Data Science,Video,Data Science,Pandas,Quiz,Intermediate,1,0
+S043,80,Databases,Reading,Databases,Joins,Article,Advanced,1,1
+S044,99,Python,Interactive,Python,Functions,Quiz,Advanced,1,1
+S045,79,Web Development,Practice,Web Development,HTML,Quiz,Advanced,0,1
+S046,48,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,1,1
+S047,100,Python,Video,Python,File Handling,Video,Advanced,1,1
+S048,96,Python,Reading,Python,Variables,Article,Advanced,1,1
+S049,99,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Advanced,1,1
+S050,53,Python,Video,Data Science,EDA,Video,Beginner,1,0
+S051,91,Web Development,Video,Machine Learning,Model Evaluation,Video,Advanced,0,0
+S052,67,Python,Interactive,Data Science,NumPy,Quiz,Intermediate,1,0
+S053,65,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S054,43,Data Science,Reading,Data Science,Visualization,Article,Beginner,1,1
+S055,42,Databases,Practice,Databases,Aggregation,Practice,Beginner,0,1
+S056,83,Databases,Video,Databases,SQL Basics,Practice,Advanced,1,1
+S057,38,Python,Practice,Python,Functions,Practice,Beginner,1,1
+S058,55,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Intermediate,0,1
+S059,62,Python,Interactive,Python,Functions,Quiz,Intermediate,1,1
+S060,100,Python,Video,Python,Loops,Video,Advanced,0,1
+S061,43,Data Science,Practice,Data Science,Pandas,Practice,Beginner,0,1
+S062,79,Web Development,Video,Web Development,JavaScript,Quiz,Advanced,1,1
+S063,81,Databases,Video,Web Development,CSS,Video,Advanced,1,1
+S064,78,Data Science,Video,Databases,Aggregation,Video,Advanced,1,1
+S065,92,Machine Learning,Practice,Machine Learning,Preprocessing,Article,Advanced,1,1
+S066,40,Python,Practice,Python,File Handling,Video,Beginner,1,1
+S067,99,Web Development,Practice,Web Development,APIs,Practice,Advanced,1,1
+S068,47,Python,Interactive,Python,Functions,Quiz,Beginner,1,1
+S069,48,Databases,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S070,76,Web Development,Interactive,Data Science,Data Cleaning,Article,Intermediate,1,0
+S071,94,Databases,Video,Databases,Database Design,Video,Advanced,1,1
+S072,82,Python,Reading,Python,Collections,Article,Advanced,1,1
+S073,64,Python,Reading,Python,Functions,Video,Intermediate,1,1
+S074,42,Web Development,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S075,59,Python,Reading,Python,Conditions,Article,Intermediate,1,1
+S076,38,Data Science,Video,Data Science,Statistics,Video,Beginner,1,1
+S077,43,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,0,1
+S078,95,Data Science,Interactive,Data Science,Visualization,Quiz,Advanced,0,1
+S079,64,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Intermediate,1,1
+S080,42,Databases,Reading,Databases,SQL Basics,Video,Beginner,1,1
+S081,40,Databases,Video,Databases,SQL Basics,Article,Beginner,1,1
+S082,55,Data Science,Interactive,Data Science,Data Cleaning,Article,Intermediate,1,0
+S083,43,Python,Interactive,Python,Loops,Practice,Beginner,1,1
+S084,83,Data Science,Reading,Python,Loops,Article,Advanced,0,1
+S085,83,Machine Learning,Practice,Machine Learning,Clustering,Video,Advanced,1,1
+S086,79,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S087,99,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S088,40,Python,Reading,Python,Collections,Article,Beginner,0,1
+S089,52,Web Development,Reading,Machine Learning,Regression,Article,Beginner,1,1
+S090,38,Machine Learning,Practice,Machine Learning,Classification,Practice,Beginner,0,1
+S091,75,Machine Learning,Interactive,Machine Learning,Model Evaluation,Article,Intermediate,0,1
+S092,62,Data Science,Reading,Data Science,Visualization,Article,Intermediate,1,0
+S093,60,Databases,Practice,Databases,Database Design,Practice,Intermediate,0,1
+S094,48,Python,Reading,Python,Functions,Article,Beginner,1,1
+S095,69,Data Science,Reading,Data Science,NumPy,Practice,Intermediate,0,1
+S096,36,Data Science,Reading,Data Science,EDA,Video,Beginner,1,1
+S097,61,Python,Reading,Web Development,Frontend Basics,Article,Intermediate,1,0
+S098,45,Databases,Reading,Databases,Aggregation,Video,Beginner,1,1
+S099,37,Machine Learning,Practice,Machine Learning,Clustering,Practice,Beginner,0,1
+S100,39,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,0,1
+S101,78,Databases,Video,Machine Learning,Regression,Quiz,Advanced,1,0
+S102,84,Databases,Video,Databases,Aggregation,Video,Advanced,1,1
+S103,96,Web Development,Interactive,Web Development,CSS,Quiz,Advanced,1,1
+S104,90,Machine Learning,Reading,Python,Collections,Article,Advanced,0,0
+S105,88,Python,Reading,Python,Loops,Article,Advanced,0,1
+S106,69,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Intermediate,1,1
+S107,50,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Beginner,1,1
+S108,66,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,0,1
+S109,62,Web Development,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,0,0
+S110,83,Data Science,Practice,Data Science,EDA,Practice,Advanced,1,1
+S111,89,Python,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S112,35,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,0,1
+S113,59,Web Development,Reading,Python,Conditions,Article,Intermediate,0,1
+S114,80,Machine Learning,Practice,Machine Learning,Classification,Practice,Advanced,1,1
+S115,52,Databases,Practice,Machine Learning,Regression,Practice,Beginner,1,0
+S116,64,Data Science,Reading,Data Science,Pandas,Article,Intermediate,0,1
+S117,81,Data Science,Practice,Data Science,EDA,Practice,Advanced,1,1
+S118,58,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Intermediate,1,1
+S119,43,Web Development,Interactive,Web Development,Frontend Basics,Practice,Beginner,0,0
+S120,66,Databases,Reading,Databases,Joins,Video,Intermediate,0,1
+S121,76,Databases,Practice,Databases,Aggregation,Practice,Intermediate,0,1
+S122,44,Databases,Practice,Databases,Database Design,Quiz,Beginner,0,1
+S123,87,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,1,1
+S124,88,Python,Practice,Databases,SQL Basics,Video,Advanced,0,0
+S125,72,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,1,1
+S126,82,Data Science,Practice,Data Science,Pandas,Practice,Advanced,1,1
+S127,66,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,1,1
+S128,47,Data Science,Video,Web Development,JavaScript,Video,Beginner,1,0
+S129,87,Databases,Reading,Databases,Aggregation,Practice,Advanced,1,0
+S130,83,Web Development,Interactive,Web Development,CSS,Quiz,Advanced,1,1
+S131,69,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Intermediate,0,1
+S132,72,Python,Video,Python,Loops,Video,Intermediate,0,1
+S133,37,Data Science,Practice,Data Science,EDA,Practice,Beginner,1,1
+S134,95,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,1,1
+S135,95,Web Development,Video,Data Science,Pandas,Video,Advanced,1,1
+S136,56,Python,Practice,Python,Conditions,Video,Intermediate,0,1
+S137,91,Python,Reading,Python,Loops,Article,Advanced,0,1
+S138,98,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S139,85,Data Science,Interactive,Data Science,Pandas,Quiz,Advanced,0,1
+S140,90,Web Development,Practice,Web Development,APIs,Practice,Advanced,1,1
+S141,82,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,0,1
+S142,98,Machine Learning,Reading,Machine Learning,Clustering,Practice,Advanced,0,1
+S143,75,Web Development,Reading,Web Development,CSS,Article,Intermediate,0,1
+S144,91,Python,Interactive,Python,Variables,Quiz,Advanced,0,1
+S145,94,Web Development,Practice,Web Development,CSS,Practice,Advanced,0,1
+S146,55,Data Science,Reading,Data Science,Pandas,Video,Intermediate,1,1
+S147,45,Databases,Video,Data Science,Statistics,Video,Beginner,0,1
+S148,88,Machine Learning,Video,Machine Learning,Classification,Video,Advanced,1,1
+S149,71,Machine Learning,Video,Machine Learning,Preprocessing,Video,Intermediate,0,1
+S150,68,Python,Video,Python,Conditions,Video,Intermediate,0,1
+S151,62,Data Science,Reading,Data Science,Pandas,Article,Intermediate,1,1
+S152,67,Databases,Video,Databases,Joins,Article,Intermediate,1,1
+S153,62,Python,Interactive,Python,Loops,Quiz,Intermediate,1,1
+S154,84,Databases,Interactive,Databases,Joins,Quiz,Advanced,0,1
+S155,59,Python,Practice,Web Development,JavaScript,Practice,Intermediate,1,1
+S156,50,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S157,64,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,0,1
+S158,62,Web Development,Reading,Data Science,Pandas,Article,Intermediate,1,1
+S159,88,Python,Interactive,Python,Functions,Quiz,Advanced,1,1
+S160,63,Web Development,Interactive,Web Development,HTML,Quiz,Intermediate,1,1
+S161,86,Databases,Video,Python,Conditions,Video,Advanced,0,0
+S162,58,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S163,90,Python,Video,Python,Loops,Video,Advanced,1,1
+S164,56,Databases,Interactive,Data Science,Pandas,Article,Intermediate,1,0
+S165,40,Data Science,Practice,Data Science,NumPy,Practice,Beginner,0,1
+S166,69,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,1,1
+S167,43,Databases,Practice,Databases,Aggregation,Quiz,Beginner,1,1
+S168,43,Data Science,Practice,Data Science,Pandas,Practice,Beginner,1,1
+S169,84,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S170,69,Python,Practice,Python,File Handling,Practice,Intermediate,0,1
+S171,43,Data Science,Interactive,Data Science,NumPy,Quiz,Beginner,0,1
+S172,75,Databases,Practice,Databases,Aggregation,Video,Intermediate,0,1
+S173,64,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S174,90,Web Development,Video,Web Development,HTML,Video,Advanced,1,1
+S175,96,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S176,85,Python,Interactive,Python,File Handling,Quiz,Advanced,0,1
+S177,54,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,0,1
+S178,63,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Intermediate,0,1
+S179,50,Python,Interactive,Python,Variables,Quiz,Beginner,0,1
+S180,76,Machine Learning,Reading,Machine Learning,Classification,Article,Intermediate,0,1
+S001,99,Data Science,Reading,Data Science,NumPy,Article,Advanced,1,1
+S002,68,Machine Learning,Practice,Machine Learning,Preprocessing,Video,Intermediate,0,1
+S003,52,Machine Learning,Interactive,Machine Learning,Regression,Practice,Beginner,1,1
+S004,69,Databases,Video,Databases,Joins,Video,Intermediate,0,1
+S005,59,Python,Practice,Python,File Handling,Article,Intermediate,0,1
+S006,98,Machine Learning,Interactive,Databases,Joins,Article,Advanced,0,0
+S007,96,Databases,Practice,Databases,Aggregation,Practice,Advanced,1,1
+S008,46,Databases,Reading,Databases,Database Design,Article,Beginner,0,1
+S009,55,Web Development,Practice,Web Development,Frontend Basics,Practice,Intermediate,0,1
+S010,97,Data Science,Interactive,Data Science,Visualization,Quiz,Advanced,0,1
+S011,83,Databases,Practice,Databases,SQL Basics,Quiz,Advanced,0,1
+S012,37,Data Science,Interactive,Data Science,EDA,Quiz,Beginner,1,1
+S013,51,Data Science,Reading,Data Science,Statistics,Article,Beginner,1,1
+S014,40,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,0,1
+S015,92,Python,Reading,Python,File Handling,Article,Advanced,0,1
+S016,85,Data Science,Reading,Data Science,Statistics,Article,Advanced,1,1
+S017,61,Data Science,Reading,Machine Learning,Preprocessing,Quiz,Intermediate,0,1
+S018,57,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S019,81,Web Development,Video,Data Science,NumPy,Video,Advanced,1,1
+S020,70,Machine Learning,Practice,Machine Learning,Clustering,Article,Intermediate,1,0
+S021,78,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,1,1
+S022,66,Databases,Video,Web Development,Frontend Basics,Article,Intermediate,0,1
+S023,44,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S024,51,Python,Video,Web Development,CSS,Video,Beginner,0,0
+S025,97,Databases,Video,Databases,Database Design,Quiz,Advanced,0,1
+S026,54,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Beginner,1,1
+S027,63,Databases,Reading,Databases,SQL Basics,Article,Intermediate,0,1
+S028,69,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S029,83,Python,Video,Python,Loops,Video,Advanced,0,1
+S030,42,Databases,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S031,37,Machine Learning,Video,Web Development,CSS,Video,Beginner,1,1
+S032,86,Data Science,Interactive,Data Science,Visualization,Quiz,Advanced,1,1
+S033,77,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,0,1
+S034,63,Data Science,Video,Machine Learning,Regression,Article,Intermediate,0,1
+S035,39,Python,Video,Web Development,HTML,Practice,Beginner,0,0
+S036,89,Databases,Practice,Databases,SQL Basics,Practice,Advanced,1,1
+S037,68,Python,Practice,Python,Functions,Quiz,Intermediate,1,1
+S038,63,Python,Video,Python,Functions,Quiz,Intermediate,0,1
+S039,54,Python,Video,Web Development,APIs,Video,Beginner,1,1
+S040,59,Web Development,Practice,Web Development,HTML,Practice,Intermediate,0,1
+S041,95,Python,Video,Python,Variables,Video,Advanced,1,1
+S042,35,Databases,Interactive,Databases,SQL Basics,Article,Beginner,0,1
+S043,44,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S044,90,Data Science,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S045,51,Data Science,Practice,Data Science,EDA,Practice,Beginner,1,1
+S046,69,Data Science,Reading,Data Science,Statistics,Article,Intermediate,1,1
+S047,41,Web Development,Video,Web Development,JavaScript,Video,Beginner,0,1
+S048,75,Data Science,Video,Data Science,Statistics,Video,Intermediate,1,1
+S049,51,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,1,1
+S050,44,Python,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S051,90,Data Science,Reading,Databases,Aggregation,Article,Advanced,1,1
+S052,84,Python,Practice,Machine Learning,Regression,Practice,Advanced,1,1
+S053,73,Data Science,Practice,Python,Functions,Quiz,Intermediate,0,0
+S054,39,Machine Learning,Practice,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S055,56,Databases,Reading,Databases,Aggregation,Video,Intermediate,0,1
+S056,46,Web Development,Video,Data Science,Pandas,Practice,Beginner,0,0
+S057,39,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S058,43,Machine Learning,Practice,Databases,SQL Basics,Quiz,Beginner,1,1
+S059,74,Machine Learning,Reading,Machine Learning,Regression,Article,Intermediate,1,1
+S060,72,Python,Reading,Python,Conditions,Article,Intermediate,1,1
+S061,35,Web Development,Video,Web Development,JavaScript,Quiz,Beginner,0,1
+S062,66,Machine Learning,Reading,Machine Learning,Classification,Video,Intermediate,0,1
+S063,71,Databases,Reading,Databases,Joins,Article,Intermediate,1,1
+S064,64,Web Development,Practice,Web Development,HTML,Article,Intermediate,1,1
+S065,40,Python,Interactive,Python,Loops,Quiz,Beginner,1,1
+S066,77,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Intermediate,0,1
+S067,40,Web Development,Video,Web Development,APIs,Video,Beginner,1,1
+S068,39,Python,Reading,Python,Variables,Article,Beginner,1,1
+S069,46,Machine Learning,Practice,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S070,89,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S071,93,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,1,1
+S072,81,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S073,69,Machine Learning,Video,Machine Learning,Regression,Video,Intermediate,1,1
+S074,78,Databases,Practice,Data Science,Data Cleaning,Quiz,Advanced,0,0
+S075,76,Data Science,Interactive,Data Science,EDA,Quiz,Intermediate,0,1
+S076,92,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Advanced,0,1
+S077,85,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S078,50,Machine Learning,Video,Python,Variables,Video,Beginner,1,1
+S079,79,Machine Learning,Interactive,Machine Learning,Model Evaluation,Video,Advanced,0,1
+S080,78,Databases,Practice,Databases,Database Design,Article,Advanced,1,1
+S081,70,Web Development,Interactive,Web Development,APIs,Practice,Intermediate,1,1
+S082,68,Databases,Video,Machine Learning,Preprocessing,Video,Intermediate,0,1
+S083,55,Python,Interactive,Data Science,NumPy,Practice,Intermediate,1,0
+S084,94,Web Development,Video,Web Development,JavaScript,Article,Advanced,0,1
+S085,45,Databases,Practice,Web Development,APIs,Video,Beginner,1,0
+S086,36,Web Development,Reading,Data Science,Visualization,Practice,Beginner,1,0
+S087,97,Python,Interactive,Python,File Handling,Quiz,Advanced,1,1
+S088,84,Data Science,Reading,Data Science,Pandas,Article,Advanced,1,1
+S089,36,Machine Learning,Video,Machine Learning,Regression,Article,Beginner,1,1
+S090,80,Databases,Reading,Databases,Joins,Article,Advanced,1,0
+S091,87,Databases,Video,Data Science,Visualization,Video,Advanced,0,1
+S092,81,Data Science,Reading,Data Science,Visualization,Article,Advanced,1,1
+S093,47,Machine Learning,Practice,Databases,Database Design,Video,Beginner,1,0
+S094,88,Databases,Interactive,Databases,Database Design,Practice,Advanced,0,0
+S095,85,Python,Practice,Python,File Handling,Quiz,Advanced,1,1
+S096,62,Web Development,Practice,Web Development,Frontend Basics,Practice,Intermediate,1,1
+S097,93,Web Development,Reading,Data Science,Visualization,Video,Advanced,1,0
+S098,79,Machine Learning,Reading,Machine Learning,Clustering,Quiz,Advanced,0,1
+S099,58,Data Science,Practice,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S100,59,Web Development,Reading,Web Development,JavaScript,Article,Intermediate,1,1
+S101,60,Machine Learning,Practice,Machine Learning,Clustering,Practice,Intermediate,0,1
+S102,41,Databases,Practice,Web Development,CSS,Practice,Beginner,0,1
+S103,56,Python,Practice,Python,File Handling,Practice,Intermediate,1,1
+S104,92,Web Development,Video,Web Development,Frontend Basics,Quiz,Advanced,1,0
+S105,98,Python,Reading,Python,Variables,Practice,Advanced,1,1
+S106,96,Machine Learning,Reading,Machine Learning,Classification,Article,Advanced,0,1
+S107,79,Web Development,Reading,Web Development,Frontend Basics,Practice,Advanced,0,1
+S108,77,Python,Practice,Python,Functions,Practice,Intermediate,0,1
+S109,71,Python,Practice,Python,Loops,Practice,Intermediate,0,1
+S110,67,Web Development,Reading,Data Science,Pandas,Article,Intermediate,0,1
+S111,83,Machine Learning,Interactive,Machine Learning,Preprocessing,Practice,Advanced,1,1
+S112,69,Python,Reading,Machine Learning,Model Evaluation,Video,Intermediate,0,0
+S113,89,Machine Learning,Practice,Machine Learning,Regression,Video,Advanced,1,1
+S114,76,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,0,1
+S115,71,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S116,86,Data Science,Reading,Machine Learning,Model Evaluation,Article,Advanced,1,1
+S117,54,Python,Reading,Python,Collections,Video,Beginner,1,1
+S118,38,Web Development,Video,Databases,SQL Basics,Video,Beginner,1,0
+S119,71,Data Science,Practice,Data Science,Pandas,Article,Intermediate,1,1
+S120,74,Databases,Reading,Databases,Aggregation,Article,Intermediate,1,1
+S121,70,Python,Practice,Python,Variables,Practice,Intermediate,0,1
+S122,89,Machine Learning,Video,Machine Learning,Classification,Video,Advanced,1,1
+S123,79,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Advanced,0,1
+S124,98,Python,Practice,Python,Conditions,Video,Advanced,0,1
+S125,54,Web Development,Reading,Web Development,APIs,Article,Beginner,0,1
+S126,49,Data Science,Reading,Databases,Aggregation,Article,Beginner,0,1
+S127,70,Web Development,Reading,Web Development,HTML,Quiz,Intermediate,0,1
+S128,70,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Intermediate,0,1
+S129,94,Web Development,Video,Web Development,JavaScript,Video,Advanced,0,1
+S130,58,Python,Interactive,Python,File Handling,Quiz,Intermediate,1,1
+S131,39,Machine Learning,Practice,Machine Learning,Classification,Quiz,Beginner,0,1
+S132,85,Web Development,Interactive,Web Development,CSS,Quiz,Advanced,0,1
+S133,100,Python,Practice,Web Development,HTML,Quiz,Advanced,0,0
+S134,43,Python,Interactive,Databases,Aggregation,Practice,Beginner,0,1
+S135,48,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S136,100,Machine Learning,Interactive,Python,File Handling,Quiz,Advanced,1,1
+S137,64,Data Science,Interactive,Data Science,Data Cleaning,Practice,Intermediate,1,1
+S138,60,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,0,1
+S139,38,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S140,72,Python,Interactive,Python,Functions,Quiz,Intermediate,1,1
+S141,61,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,1,1
+S142,73,Python,Video,Python,Conditions,Video,Intermediate,0,1
+S143,43,Python,Practice,Python,Collections,Practice,Beginner,1,1
+S144,47,Python,Video,Python,Variables,Video,Beginner,1,1
+S145,69,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,0,1
+S146,42,Web Development,Video,Web Development,HTML,Quiz,Beginner,1,1
+S147,70,Data Science,Reading,Data Science,NumPy,Article,Intermediate,0,1
+S148,52,Machine Learning,Interactive,Machine Learning,Model Evaluation,Video,Beginner,1,1
+S149,96,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S150,62,Machine Learning,Reading,Data Science,EDA,Article,Intermediate,1,0
+S151,38,Databases,Video,Databases,SQL Basics,Video,Beginner,1,1
+S152,68,Data Science,Video,Data Science,Pandas,Video,Intermediate,0,1
+S153,77,Data Science,Reading,Python,Conditions,Article,Intermediate,1,1
+S154,47,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S155,65,Web Development,Practice,Web Development,HTML,Article,Intermediate,1,1
+S156,88,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,1,1
+S157,48,Databases,Video,Databases,Joins,Video,Beginner,0,1
+S158,80,Python,Interactive,Python,Variables,Quiz,Advanced,0,1
+S159,77,Databases,Practice,Databases,Aggregation,Practice,Intermediate,0,1
+S160,63,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,0,1
+S161,74,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S162,88,Python,Practice,Python,Loops,Video,Advanced,0,1
+S163,76,Web Development,Video,Web Development,APIs,Video,Intermediate,1,1
+S164,85,Machine Learning,Video,Machine Learning,Classification,Quiz,Advanced,0,1
+S165,38,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S166,79,Python,Video,Python,File Handling,Video,Advanced,0,1
+S167,67,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S168,70,Data Science,Reading,Data Science,EDA,Article,Intermediate,0,1
+S169,53,Databases,Practice,Databases,SQL Basics,Practice,Beginner,1,1
+S170,55,Python,Reading,Python,Variables,Article,Intermediate,1,1
+S171,49,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S172,67,Python,Practice,Python,File Handling,Practice,Intermediate,0,1
+S173,46,Python,Reading,Python,Variables,Practice,Beginner,0,1
+S174,89,Web Development,Reading,Web Development,HTML,Article,Advanced,0,1
+S175,100,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,1,1
+S176,44,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,1,1
+S177,45,Python,Interactive,Python,Variables,Quiz,Beginner,1,1
+S178,74,Machine Learning,Video,Machine Learning,Clustering,Video,Intermediate,1,1
+S179,84,Data Science,Reading,Data Science,Pandas,Article,Advanced,1,1
+S180,100,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S001,93,Databases,Interactive,Databases,Joins,Practice,Advanced,1,1
+S002,87,Databases,Practice,Databases,SQL Basics,Practice,Advanced,0,1
+S003,67,Databases,Practice,Databases,Database Design,Video,Intermediate,1,1
+S004,91,Python,Video,Python,Loops,Video,Advanced,1,1
+S005,93,Python,Video,Python,File Handling,Video,Advanced,0,1
+S006,67,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,0,1
+S007,75,Data Science,Practice,Data Science,NumPy,Quiz,Intermediate,1,1
+S008,64,Machine Learning,Reading,Python,Conditions,Article,Intermediate,1,0
+S009,52,Databases,Reading,Databases,Joins,Article,Beginner,1,1
+S010,94,Data Science,Reading,Web Development,Frontend Basics,Article,Advanced,1,1
+S011,82,Web Development,Practice,Web Development,JavaScript,Quiz,Advanced,1,1
+S012,63,Databases,Interactive,Databases,Joins,Quiz,Intermediate,0,1
+S013,90,Python,Reading,Python,Functions,Article,Advanced,1,1
+S014,92,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S015,65,Python,Interactive,Python,Collections,Article,Intermediate,1,1
+S016,58,Data Science,Reading,Web Development,CSS,Article,Intermediate,0,0
+S017,59,Web Development,Practice,Python,File Handling,Video,Intermediate,1,0
+S018,99,Data Science,Reading,Data Science,Statistics,Article,Advanced,0,1
+S019,59,Web Development,Reading,Python,Variables,Article,Intermediate,1,0
+S020,92,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,0,1
+S021,82,Python,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S022,85,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,1,1
+S023,56,Data Science,Practice,Python,Loops,Practice,Intermediate,1,0
+S024,62,Web Development,Interactive,Web Development,APIs,Quiz,Intermediate,0,1
+S025,65,Python,Interactive,Python,Variables,Quiz,Intermediate,0,1
+S026,69,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S027,72,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,1,1
+S028,45,Databases,Practice,Databases,SQL Basics,Article,Beginner,0,1
+S029,53,Web Development,Reading,Web Development,HTML,Article,Beginner,1,1
+S030,82,Web Development,Video,Web Development,HTML,Video,Advanced,1,1
+S031,81,Data Science,Reading,Data Science,Visualization,Article,Advanced,0,1
+S032,86,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S033,42,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,1,1
+S034,80,Machine Learning,Interactive,Machine Learning,Regression,Practice,Advanced,1,0
+S035,94,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,0,1
+S036,78,Machine Learning,Video,Databases,Aggregation,Video,Advanced,0,1
+S037,47,Data Science,Reading,Data Science,Data Cleaning,Video,Beginner,0,1
+S038,95,Machine Learning,Interactive,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S039,85,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,0,1
+S040,65,Databases,Practice,Web Development,HTML,Practice,Intermediate,0,1
+S041,64,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,0,1
+S042,35,Data Science,Practice,Data Science,NumPy,Practice,Beginner,0,1
+S043,38,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S044,96,Web Development,Video,Python,Functions,Video,Advanced,1,0
+S045,90,Machine Learning,Video,Machine Learning,Preprocessing,Quiz,Advanced,1,1
+S046,50,Databases,Video,Data Science,Data Cleaning,Video,Beginner,0,0
+S047,44,Web Development,Video,Data Science,Visualization,Video,Beginner,0,0
+S048,97,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,1,1
+S049,84,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,1,1
+S050,63,Web Development,Video,Web Development,CSS,Article,Intermediate,0,1
+S051,89,Databases,Practice,Databases,Joins,Practice,Advanced,1,1
+S052,72,Python,Interactive,Web Development,CSS,Quiz,Intermediate,1,0
+S053,61,Machine Learning,Interactive,Web Development,APIs,Quiz,Intermediate,1,1
+S054,61,Databases,Video,Databases,Joins,Video,Intermediate,1,1
+S055,45,Python,Video,Python,Loops,Video,Beginner,0,1
+S056,67,Data Science,Practice,Data Science,NumPy,Practice,Intermediate,0,1
+S057,43,Python,Video,Python,Collections,Video,Beginner,1,1
+S058,57,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,1
+S059,77,Python,Reading,Python,File Handling,Video,Intermediate,1,1
+S060,93,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S061,56,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,1,1
+S062,57,Databases,Video,Databases,Aggregation,Video,Intermediate,0,1
+S063,46,Databases,Reading,Databases,Database Design,Quiz,Beginner,1,1
+S064,95,Data Science,Reading,Data Science,EDA,Quiz,Advanced,1,1
+S065,82,Machine Learning,Interactive,Machine Learning,Regression,Practice,Advanced,0,1
+S066,97,Web Development,Reading,Web Development,Frontend Basics,Video,Advanced,0,1
+S067,66,Web Development,Reading,Web Development,JavaScript,Article,Intermediate,0,1
+S068,37,Machine Learning,Practice,Machine Learning,Clustering,Quiz,Beginner,0,1
+S069,49,Machine Learning,Video,Machine Learning,Classification,Practice,Beginner,0,1
+S070,64,Machine Learning,Video,Machine Learning,Classification,Practice,Intermediate,0,1
+S071,57,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,1,1
+S072,66,Data Science,Interactive,Data Science,EDA,Quiz,Intermediate,1,1
+S073,70,Machine Learning,Reading,Machine Learning,Classification,Article,Intermediate,0,1
+S074,40,Databases,Practice,Databases,Joins,Quiz,Beginner,1,1
+S075,58,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S076,62,Machine Learning,Reading,Machine Learning,Regression,Article,Intermediate,0,1
+S077,78,Python,Interactive,Python,Functions,Video,Advanced,1,1
+S078,44,Web Development,Video,Web Development,Frontend Basics,Article,Beginner,0,1
+S079,55,Python,Video,Python,Loops,Video,Intermediate,0,1
+S080,69,Python,Video,Python,Variables,Video,Intermediate,1,1
+S081,74,Python,Interactive,Python,Collections,Quiz,Intermediate,0,1
+S082,62,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,0,1
+S083,78,Databases,Reading,Databases,Aggregation,Article,Advanced,0,1
+S084,37,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,1,1
+S085,60,Databases,Video,Databases,Aggregation,Video,Intermediate,1,1
+S086,39,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,1,1
+S087,64,Web Development,Practice,Web Development,HTML,Practice,Intermediate,0,1
+S088,82,Data Science,Video,Data Science,NumPy,Video,Advanced,1,1
+S089,42,Databases,Practice,Databases,SQL Basics,Practice,Beginner,0,1
+S090,60,Data Science,Interactive,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S091,87,Databases,Practice,Databases,Database Design,Practice,Advanced,0,1
+S092,61,Web Development,Video,Web Development,JavaScript,Video,Intermediate,0,1
+S093,78,Data Science,Reading,Python,Loops,Article,Advanced,1,0
+S094,35,Web Development,Practice,Machine Learning,Clustering,Practice,Beginner,0,0
+S095,87,Python,Interactive,Python,Conditions,Quiz,Advanced,0,1
+S096,99,Web Development,Practice,Python,Loops,Video,Advanced,1,1
+S097,86,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S098,100,Data Science,Practice,Data Science,Data Cleaning,Practice,Advanced,1,1
+S099,87,Python,Video,Python,Loops,Video,Advanced,0,1
+S100,94,Python,Video,Python,Collections,Video,Advanced,0,1
+S101,80,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S102,63,Web Development,Video,Web Development,CSS,Video,Intermediate,0,1
+S103,82,Databases,Practice,Databases,Joins,Practice,Advanced,1,1
+S104,87,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S105,76,Data Science,Reading,Data Science,Data Cleaning,Article,Intermediate,0,1
+S106,41,Python,Practice,Data Science,NumPy,Practice,Beginner,0,0
+S107,86,Machine Learning,Practice,Machine Learning,Regression,Practice,Advanced,0,1
+S108,84,Databases,Interactive,Machine Learning,Regression,Quiz,Advanced,0,1
+S109,78,Python,Practice,Web Development,JavaScript,Practice,Advanced,0,1
+S110,81,Machine Learning,Video,Python,Conditions,Video,Advanced,1,0
+S111,49,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,0,1
+S112,62,Web Development,Practice,Web Development,CSS,Quiz,Intermediate,1,1
+S113,93,Python,Practice,Python,File Handling,Practice,Advanced,0,1
+S114,71,Web Development,Interactive,Web Development,JavaScript,Article,Intermediate,1,1
+S115,82,Databases,Practice,Web Development,Frontend Basics,Article,Advanced,0,0
+S116,37,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,0,1
+S117,58,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,1,1
+S118,50,Databases,Practice,Databases,Aggregation,Practice,Beginner,1,1
+S119,58,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,1,1
+S120,92,Python,Video,Web Development,Frontend Basics,Quiz,Advanced,0,0
+S121,85,Databases,Interactive,Databases,Joins,Quiz,Advanced,1,1
+S122,72,Python,Video,Python,Variables,Video,Intermediate,1,1
+S123,87,Databases,Practice,Databases,Database Design,Practice,Advanced,1,1
+S124,84,Machine Learning,Practice,Databases,Joins,Practice,Advanced,0,1
+S125,88,Databases,Reading,Databases,Database Design,Article,Advanced,0,1
+S126,73,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S127,36,Databases,Video,Databases,Aggregation,Quiz,Beginner,1,1
+S128,66,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S129,99,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,0,1
+S130,45,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S131,78,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S132,45,Databases,Reading,Databases,Database Design,Article,Beginner,0,1
+S133,49,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,0,1
+S134,93,Data Science,Video,Data Science,Statistics,Video,Advanced,0,1
+S135,53,Python,Reading,Python,Variables,Article,Beginner,1,1
+S136,63,Web Development,Video,Web Development,CSS,Video,Intermediate,1,1
+S137,61,Data Science,Reading,Data Science,Visualization,Article,Intermediate,0,1
+S138,51,Databases,Interactive,Web Development,Frontend Basics,Quiz,Beginner,0,1
+S139,49,Python,Reading,Python,Collections,Article,Beginner,0,1
+S140,90,Databases,Practice,Machine Learning,Classification,Practice,Advanced,1,1
+S141,50,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,0,1
+S142,87,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S143,44,Machine Learning,Practice,Machine Learning,Classification,Video,Beginner,1,1
+S144,73,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,0,1
+S145,35,Machine Learning,Interactive,Web Development,APIs,Quiz,Beginner,1,1
+S146,65,Machine Learning,Reading,Databases,Database Design,Article,Intermediate,0,1
+S147,62,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,1,0
+S148,88,Data Science,Video,Data Science,Visualization,Video,Advanced,1,1
+S149,72,Web Development,Practice,Web Development,Frontend Basics,Article,Intermediate,1,0
+S150,40,Web Development,Interactive,Data Science,EDA,Quiz,Beginner,0,0
+S151,97,Web Development,Video,Web Development,Frontend Basics,Video,Advanced,0,1
+S152,63,Web Development,Video,Python,Functions,Article,Intermediate,1,0
+S153,36,Python,Reading,Python,Loops,Quiz,Beginner,0,1
+S154,35,Web Development,Interactive,Web Development,HTML,Practice,Beginner,1,1
+S155,63,Data Science,Reading,Data Science,Statistics,Article,Intermediate,0,1
+S156,77,Databases,Reading,Databases,Joins,Article,Intermediate,1,1
+S157,39,Machine Learning,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S158,86,Data Science,Practice,Data Science,Visualization,Practice,Advanced,1,1
+S159,75,Python,Practice,Python,File Handling,Practice,Intermediate,1,1
+S160,72,Machine Learning,Interactive,Data Science,EDA,Quiz,Intermediate,1,1
+S161,95,Databases,Practice,Databases,SQL Basics,Practice,Advanced,0,1
+S162,48,Python,Interactive,Python,Loops,Video,Beginner,1,1
+S163,56,Python,Interactive,Python,Conditions,Quiz,Intermediate,1,1
+S164,77,Web Development,Reading,Web Development,HTML,Practice,Intermediate,0,1
+S165,59,Databases,Interactive,Databases,Joins,Quiz,Intermediate,0,1
+S166,65,Python,Interactive,Web Development,HTML,Quiz,Intermediate,1,1
+S167,70,Web Development,Reading,Web Development,APIs,Article,Intermediate,1,1
+S168,55,Machine Learning,Interactive,Web Development,HTML,Quiz,Intermediate,1,0
+S169,96,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S170,76,Web Development,Reading,Python,Conditions,Quiz,Intermediate,1,0
+S171,90,Web Development,Video,Databases,SQL Basics,Article,Advanced,1,0
+S172,82,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S173,57,Python,Interactive,Python,File Handling,Quiz,Intermediate,1,1
+S174,52,Web Development,Video,Python,Conditions,Video,Beginner,1,0
+S175,40,Data Science,Practice,Databases,SQL Basics,Practice,Beginner,1,0
+S176,66,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S177,46,Web Development,Reading,Web Development,HTML,Article,Beginner,0,1
+S178,55,Machine Learning,Interactive,Machine Learning,Regression,Practice,Intermediate,0,1
+S179,38,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,1,1
+S180,98,Web Development,Video,Web Development,HTML,Video,Advanced,0,1
+S001,63,Python,Reading,Python,File Handling,Article,Intermediate,1,1
+S002,67,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S003,50,Web Development,Video,Web Development,Frontend Basics,Video,Beginner,0,1
+S004,52,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S005,42,Web Development,Reading,Web Development,JavaScript,Article,Beginner,0,1
+S006,72,Machine Learning,Practice,Data Science,EDA,Practice,Intermediate,0,1
+S007,46,Machine Learning,Interactive,Python,File Handling,Article,Beginner,0,0
+S008,39,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,0,1
+S009,63,Python,Practice,Python,Loops,Practice,Intermediate,0,1
+S010,69,Python,Reading,Data Science,NumPy,Article,Intermediate,1,0
+S011,95,Machine Learning,Reading,Machine Learning,Regression,Article,Advanced,0,1
+S012,94,Web Development,Practice,Web Development,Frontend Basics,Article,Advanced,0,1
+S013,51,Web Development,Practice,Web Development,CSS,Practice,Beginner,1,1
+S014,84,Python,Practice,Python,File Handling,Practice,Advanced,1,1
+S015,41,Web Development,Practice,Web Development,APIs,Quiz,Beginner,0,1
+S016,65,Data Science,Video,Data Science,Visualization,Video,Intermediate,0,1
+S017,45,Web Development,Practice,Web Development,JavaScript,Quiz,Beginner,0,1
+S018,96,Databases,Interactive,Databases,Database Design,Quiz,Advanced,0,1
+S019,100,Machine Learning,Video,Machine Learning,Classification,Video,Advanced,0,1
+S020,89,Databases,Practice,Databases,Aggregation,Practice,Advanced,0,1
+S021,59,Web Development,Reading,Web Development,APIs,Article,Intermediate,1,1
+S022,62,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,1,1
+S023,91,Web Development,Video,Web Development,Frontend Basics,Video,Advanced,0,1
+S024,94,Data Science,Video,Machine Learning,Classification,Video,Advanced,0,1
+S025,74,Python,Interactive,Python,Conditions,Quiz,Intermediate,1,1
+S026,64,Data Science,Practice,Data Science,Data Cleaning,Practice,Intermediate,0,1
+S027,68,Python,Practice,Machine Learning,Classification,Article,Intermediate,0,0
+S028,90,Data Science,Video,Data Science,Pandas,Video,Advanced,0,1
+S029,94,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S030,68,Machine Learning,Video,Web Development,HTML,Video,Intermediate,1,0
+S031,98,Web Development,Practice,Machine Learning,Regression,Practice,Advanced,0,1
+S032,38,Web Development,Reading,Web Development,CSS,Article,Beginner,1,1
+S033,95,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S034,46,Data Science,Video,Data Science,Statistics,Video,Beginner,1,1
+S035,46,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Beginner,0,1
+S036,83,Data Science,Interactive,Data Science,Data Cleaning,Video,Advanced,0,1
+S037,77,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,1
+S038,52,Machine Learning,Video,Machine Learning,Classification,Video,Beginner,0,1
+S039,54,Databases,Practice,Databases,Aggregation,Quiz,Beginner,0,1
+S040,91,Databases,Interactive,Data Science,EDA,Quiz,Advanced,0,0
+S041,54,Databases,Video,Python,Variables,Video,Beginner,0,1
+S042,77,Web Development,Video,Databases,SQL Basics,Video,Intermediate,0,0
+S043,94,Python,Practice,Python,Functions,Practice,Advanced,0,1
+S044,94,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S045,75,Python,Video,Python,Collections,Article,Intermediate,1,1
+S046,75,Web Development,Reading,Databases,SQL Basics,Quiz,Intermediate,0,1
+S047,41,Python,Interactive,Python,File Handling,Quiz,Beginner,0,1
+S048,86,Databases,Reading,Databases,Aggregation,Article,Advanced,0,1
+S049,79,Web Development,Reading,Web Development,HTML,Article,Advanced,0,1
+S050,82,Machine Learning,Reading,Data Science,Pandas,Article,Advanced,0,1
+S051,57,Python,Practice,Databases,Joins,Practice,Intermediate,1,0
+S052,72,Web Development,Practice,Machine Learning,Classification,Practice,Intermediate,1,0
+S053,86,Web Development,Interactive,Web Development,JavaScript,Quiz,Advanced,0,1
+S054,56,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S055,99,Data Science,Reading,Data Science,Data Cleaning,Practice,Advanced,0,1
+S056,66,Data Science,Video,Databases,SQL Basics,Practice,Intermediate,0,0
+S057,62,Databases,Practice,Python,Collections,Article,Intermediate,0,0
+S058,66,Web Development,Reading,Web Development,APIs,Article,Intermediate,1,1
+S059,96,Databases,Reading,Databases,Database Design,Article,Advanced,0,1
+S060,48,Databases,Reading,Machine Learning,Model Evaluation,Practice,Beginner,1,0
+S061,36,Web Development,Reading,Machine Learning,Clustering,Quiz,Beginner,0,0
+S062,40,Python,Reading,Python,Variables,Article,Beginner,0,1
+S063,55,Data Science,Video,Data Science,Pandas,Video,Intermediate,1,1
+S064,71,Python,Video,Python,File Handling,Video,Intermediate,0,1
+S065,72,Web Development,Reading,Web Development,JavaScript,Article,Intermediate,0,1
+S066,50,Web Development,Interactive,Web Development,CSS,Quiz,Beginner,0,1
+S067,65,Web Development,Reading,Web Development,APIs,Article,Intermediate,0,1
+S068,97,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,1,1
+S069,78,Web Development,Video,Web Development,APIs,Video,Advanced,0,1
+S070,71,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,0,1
+S071,65,Web Development,Interactive,Machine Learning,Clustering,Quiz,Intermediate,1,0
+S072,35,Data Science,Reading,Databases,Aggregation,Article,Beginner,1,0
+S073,95,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S074,90,Data Science,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S075,90,Data Science,Practice,Data Science,NumPy,Practice,Advanced,1,1
+S076,87,Python,Reading,Data Science,NumPy,Article,Advanced,1,0
+S077,78,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,0,1
+S078,51,Data Science,Reading,Databases,SQL Basics,Quiz,Beginner,1,0
+S079,82,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,0,1
+S080,38,Data Science,Video,Python,Collections,Video,Beginner,0,1
+S081,93,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,1,1
+S082,57,Databases,Video,Web Development,APIs,Video,Intermediate,1,0
+S083,51,Machine Learning,Practice,Machine Learning,Clustering,Practice,Beginner,0,1
+S084,79,Data Science,Reading,Data Science,Statistics,Article,Advanced,1,1
+S085,100,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,1,1
+S086,45,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,0,1
+S087,57,Web Development,Reading,Web Development,JavaScript,Quiz,Intermediate,0,1
+S088,52,Data Science,Reading,Data Science,Data Cleaning,Article,Beginner,1,1
+S089,95,Python,Reading,Python,Functions,Article,Advanced,1,1
+S090,95,Python,Reading,Python,Functions,Article,Advanced,0,1
+S091,38,Web Development,Practice,Web Development,Frontend Basics,Practice,Beginner,1,1
+S092,36,Python,Interactive,Python,Conditions,Quiz,Beginner,1,1
+S093,52,Python,Reading,Python,File Handling,Article,Beginner,1,1
+S094,37,Databases,Video,Python,Collections,Video,Beginner,0,0
+S095,40,Web Development,Video,Web Development,APIs,Video,Beginner,0,1
+S096,78,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,1,1
+S097,86,Databases,Practice,Databases,Joins,Practice,Advanced,1,1
+S098,58,Databases,Interactive,Databases,Joins,Practice,Intermediate,1,0
+S099,75,Python,Practice,Databases,Joins,Practice,Intermediate,1,1
+S100,62,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,1,1
+S101,55,Databases,Reading,Databases,Database Design,Article,Intermediate,1,1
+S102,90,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S103,87,Data Science,Reading,Data Science,Visualization,Article,Advanced,1,0
+S104,55,Python,Interactive,Python,Variables,Quiz,Intermediate,0,1
+S105,83,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S106,96,Machine Learning,Interactive,Machine Learning,Clustering,Article,Advanced,1,0
+S107,93,Web Development,Practice,Web Development,CSS,Practice,Advanced,0,1
+S108,41,Web Development,Video,Data Science,Data Cleaning,Video,Beginner,0,1
+S109,45,Web Development,Practice,Web Development,JavaScript,Practice,Beginner,0,1
+S110,48,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S111,90,Machine Learning,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,0
+S112,96,Web Development,Interactive,Data Science,Data Cleaning,Quiz,Advanced,1,0
+S113,78,Python,Practice,Databases,Database Design,Article,Advanced,0,0
+S114,42,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Beginner,0,1
+S115,71,Databases,Reading,Data Science,Statistics,Article,Intermediate,1,0
+S116,71,Machine Learning,Interactive,Web Development,JavaScript,Quiz,Intermediate,0,0
+S117,79,Databases,Video,Databases,SQL Basics,Video,Advanced,0,1
+S118,54,Python,Reading,Python,Collections,Article,Beginner,1,1
+S119,62,Data Science,Interactive,Data Science,NumPy,Quiz,Intermediate,0,1
+S120,92,Data Science,Practice,Data Science,Statistics,Practice,Advanced,0,1
+S121,35,Web Development,Reading,Machine Learning,Classification,Article,Beginner,1,1
+S122,46,Python,Practice,Python,Functions,Practice,Beginner,1,1
+S123,79,Web Development,Reading,Web Development,CSS,Quiz,Advanced,1,1
+S124,94,Data Science,Interactive,Data Science,Statistics,Quiz,Advanced,1,1
+S125,93,Web Development,Video,Data Science,Pandas,Video,Advanced,1,1
+S126,64,Web Development,Interactive,Web Development,APIs,Quiz,Intermediate,0,1
+S127,99,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,1,1
+S128,41,Web Development,Reading,Web Development,Frontend Basics,Article,Beginner,1,1
+S129,48,Databases,Reading,Databases,Aggregation,Article,Beginner,0,1
+S130,93,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,0,1
+S131,39,Python,Interactive,Python,Collections,Quiz,Beginner,1,1
+S132,90,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S133,37,Machine Learning,Practice,Machine Learning,Clustering,Practice,Beginner,1,1
+S134,74,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,0,1
+S135,96,Python,Video,Python,Collections,Video,Advanced,1,1
+S136,59,Data Science,Reading,Data Science,Visualization,Practice,Intermediate,0,1
+S137,62,Python,Reading,Python,Loops,Article,Intermediate,1,1
+S138,94,Python,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,0,1
+S139,37,Data Science,Reading,Machine Learning,Preprocessing,Article,Beginner,0,1
+S140,57,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,1,1
+S141,94,Python,Video,Python,Collections,Video,Advanced,1,1
+S142,76,Data Science,Interactive,Machine Learning,Regression,Quiz,Intermediate,1,0
+S143,60,Data Science,Video,Data Science,Visualization,Video,Intermediate,0,1
+S144,87,Web Development,Interactive,Machine Learning,Clustering,Quiz,Advanced,0,1
+S145,50,Web Development,Practice,Web Development,APIs,Practice,Beginner,1,1
+S146,72,Databases,Reading,Databases,SQL Basics,Article,Intermediate,0,1
+S147,49,Databases,Video,Databases,Aggregation,Practice,Beginner,0,1
+S148,62,Machine Learning,Interactive,Machine Learning,Clustering,Video,Intermediate,0,1
+S149,44,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S150,36,Databases,Reading,Machine Learning,Regression,Article,Beginner,1,0
+S151,61,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,1,1
+S152,79,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S153,43,Machine Learning,Interactive,Python,Functions,Article,Beginner,0,1
+S154,52,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,1,1
+S155,44,Machine Learning,Video,Machine Learning,Clustering,Article,Beginner,1,1
+S156,100,Python,Interactive,Python,Variables,Practice,Advanced,0,1
+S157,46,Python,Interactive,Python,File Handling,Article,Beginner,0,1
+S158,67,Web Development,Reading,Web Development,HTML,Article,Intermediate,0,1
+S159,90,Python,Interactive,Python,Functions,Video,Advanced,1,1
+S160,72,Data Science,Video,Data Science,NumPy,Video,Intermediate,0,1
+S161,98,Databases,Video,Databases,Aggregation,Practice,Advanced,0,1
+S162,56,Databases,Interactive,Data Science,NumPy,Quiz,Intermediate,0,1
+S163,85,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,0,1
+S164,68,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,0,1
+S165,83,Data Science,Interactive,Python,Loops,Quiz,Advanced,1,1
+S166,87,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S167,81,Python,Interactive,Python,File Handling,Quiz,Advanced,0,1
+S168,64,Databases,Practice,Databases,SQL Basics,Practice,Intermediate,0,1
+S169,55,Databases,Video,Databases,Joins,Video,Intermediate,0,1
+S170,41,Data Science,Interactive,Data Science,Statistics,Quiz,Beginner,1,1
+S171,39,Machine Learning,Interactive,Python,File Handling,Quiz,Beginner,1,1
+S172,87,Web Development,Reading,Web Development,APIs,Article,Advanced,0,1
+S173,46,Web Development,Video,Web Development,JavaScript,Article,Beginner,0,1
+S174,66,Machine Learning,Video,Machine Learning,Clustering,Practice,Intermediate,0,1
+S175,55,Data Science,Practice,Data Science,EDA,Practice,Intermediate,0,1
+S176,93,Web Development,Video,Python,Loops,Video,Advanced,1,0
+S177,42,Python,Video,Web Development,Frontend Basics,Video,Beginner,1,1
+S178,59,Databases,Interactive,Databases,Joins,Quiz,Intermediate,1,1
+S179,55,Machine Learning,Video,Machine Learning,Regression,Video,Intermediate,0,1
+S180,76,Data Science,Video,Data Science,Pandas,Quiz,Intermediate,0,1
+S001,67,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S002,43,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S003,63,Machine Learning,Video,Machine Learning,Preprocessing,Video,Intermediate,1,1
+S004,82,Web Development,Interactive,Web Development,JavaScript,Quiz,Advanced,1,1
+S005,69,Databases,Interactive,Web Development,JavaScript,Quiz,Intermediate,1,0
+S006,80,Databases,Practice,Databases,Database Design,Practice,Advanced,0,1
+S007,40,Web Development,Interactive,Web Development,CSS,Video,Beginner,0,1
+S008,36,Data Science,Interactive,Data Science,Pandas,Video,Beginner,0,1
+S009,72,Data Science,Practice,Machine Learning,Clustering,Practice,Intermediate,1,1
+S010,64,Web Development,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,1,0
+S011,47,Python,Practice,Machine Learning,Model Evaluation,Practice,Beginner,0,1
+S012,86,Databases,Video,Databases,Database Design,Article,Advanced,0,1
+S013,74,Databases,Video,Databases,Database Design,Quiz,Intermediate,0,1
+S014,54,Data Science,Interactive,Data Science,Statistics,Quiz,Beginner,0,1
+S015,78,Data Science,Practice,Databases,Aggregation,Practice,Advanced,0,1
+S016,69,Data Science,Reading,Data Science,Visualization,Article,Intermediate,1,1
+S017,53,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Beginner,1,1
+S018,41,Databases,Video,Databases,Database Design,Practice,Beginner,1,1
+S019,68,Web Development,Interactive,Web Development,Frontend Basics,Video,Intermediate,1,1
+S020,94,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,1,1
+S021,38,Python,Practice,Python,File Handling,Practice,Beginner,1,1
+S022,74,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,0,1
+S023,68,Data Science,Interactive,Data Science,Statistics,Quiz,Intermediate,1,1
+S024,61,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,1,1
+S025,66,Python,Practice,Python,Variables,Article,Intermediate,0,1
+S026,37,Python,Interactive,Python,File Handling,Quiz,Beginner,0,1
+S027,95,Python,Video,Machine Learning,Preprocessing,Video,Advanced,1,1
+S028,84,Data Science,Video,Data Science,Statistics,Video,Advanced,1,1
+S029,99,Python,Practice,Python,File Handling,Quiz,Advanced,1,0
+S030,78,Machine Learning,Reading,Machine Learning,Clustering,Quiz,Advanced,1,1
+S031,44,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Beginner,1,0
+S032,97,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,0,1
+S033,65,Data Science,Video,Data Science,Statistics,Video,Intermediate,1,1
+S034,68,Machine Learning,Video,Databases,Database Design,Video,Intermediate,1,1
+S035,35,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S036,90,Machine Learning,Reading,Machine Learning,Classification,Article,Advanced,0,1
+S037,36,Databases,Practice,Databases,Aggregation,Article,Beginner,0,1
+S038,99,Data Science,Practice,Data Science,Visualization,Practice,Advanced,0,1
+S039,38,Machine Learning,Reading,Machine Learning,Clustering,Practice,Beginner,1,1
+S040,84,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S041,91,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S042,46,Python,Interactive,Machine Learning,Model Evaluation,Quiz,Beginner,0,1
+S043,57,Python,Interactive,Python,Collections,Article,Intermediate,0,1
+S044,68,Machine Learning,Reading,Machine Learning,Regression,Article,Intermediate,0,1
+S045,77,Python,Reading,Python,Loops,Article,Intermediate,0,1
+S046,100,Python,Video,Python,Functions,Video,Advanced,0,1
+S047,43,Web Development,Video,Web Development,APIs,Video,Beginner,0,1
+S048,99,Data Science,Video,Data Science,Statistics,Video,Advanced,0,1
+S049,37,Web Development,Practice,Web Development,JavaScript,Practice,Beginner,0,1
+S050,95,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,1,1
+S051,51,Data Science,Interactive,Data Science,EDA,Quiz,Beginner,1,1
+S052,43,Python,Interactive,Databases,Joins,Practice,Beginner,1,1
+S053,60,Web Development,Reading,Python,Variables,Article,Intermediate,1,0
+S054,85,Machine Learning,Reading,Machine Learning,Clustering,Practice,Advanced,1,1
+S055,79,Python,Practice,Python,Variables,Practice,Advanced,0,1
+S056,50,Machine Learning,Video,Machine Learning,Preprocessing,Video,Beginner,0,1
+S057,66,Data Science,Practice,Data Science,Data Cleaning,Practice,Intermediate,0,1
+S058,75,Python,Practice,Python,Loops,Video,Intermediate,1,1
+S059,59,Web Development,Video,Web Development,HTML,Video,Intermediate,1,1
+S060,67,Data Science,Interactive,Python,Conditions,Quiz,Intermediate,0,1
+S061,58,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,0,1
+S062,84,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,0,1
+S063,86,Python,Practice,Python,Collections,Quiz,Advanced,0,1
+S064,83,Databases,Reading,Databases,Aggregation,Video,Advanced,1,1
+S065,65,Machine Learning,Video,Machine Learning,Clustering,Video,Intermediate,1,1
+S066,67,Data Science,Video,Data Science,Pandas,Video,Intermediate,1,1
+S067,52,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Beginner,0,1
+S068,41,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S069,84,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S070,35,Data Science,Video,Data Science,Statistics,Video,Beginner,1,1
+S071,82,Databases,Video,Databases,Joins,Quiz,Advanced,0,1
+S072,93,Python,Reading,Data Science,Visualization,Quiz,Advanced,1,0
+S073,73,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,0,1
+S074,43,Python,Reading,Python,Collections,Article,Beginner,1,1
+S075,52,Databases,Interactive,Python,Collections,Practice,Beginner,0,0
+S076,97,Machine Learning,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S077,60,Web Development,Interactive,Web Development,HTML,Quiz,Intermediate,1,1
+S078,82,Machine Learning,Video,Databases,SQL Basics,Video,Advanced,0,1
+S079,72,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S080,46,Web Development,Video,Web Development,Frontend Basics,Video,Beginner,0,1
+S081,56,Databases,Interactive,Databases,Aggregation,Video,Intermediate,1,1
+S082,53,Python,Reading,Python,File Handling,Article,Beginner,1,1
+S083,47,Python,Interactive,Machine Learning,Clustering,Quiz,Beginner,0,0
+S084,60,Machine Learning,Practice,Data Science,Visualization,Practice,Intermediate,1,0
+S085,61,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,0
+S086,60,Python,Video,Python,Collections,Video,Intermediate,1,1
+S087,53,Python,Interactive,Python,Collections,Quiz,Beginner,0,1
+S088,38,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Beginner,1,1
+S089,81,Python,Interactive,Python,Collections,Quiz,Advanced,1,1
+S090,54,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S091,80,Data Science,Practice,Python,Collections,Practice,Advanced,0,1
+S092,81,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S093,63,Web Development,Practice,Web Development,APIs,Practice,Intermediate,1,1
+S094,66,Machine Learning,Reading,Databases,Aggregation,Article,Intermediate,0,1
+S095,51,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,0,1
+S096,35,Python,Practice,Databases,Joins,Practice,Beginner,1,1
+S097,63,Web Development,Video,Data Science,EDA,Video,Intermediate,0,1
+S098,86,Python,Interactive,Python,File Handling,Video,Advanced,0,1
+S099,54,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,1,0
+S100,79,Machine Learning,Practice,Machine Learning,Regression,Practice,Advanced,0,1
+S101,52,Databases,Practice,Databases,Joins,Practice,Beginner,0,1
+S102,56,Web Development,Practice,Python,Loops,Practice,Intermediate,0,1
+S103,43,Databases,Reading,Databases,SQL Basics,Article,Beginner,0,1
+S104,76,Databases,Interactive,Databases,Joins,Quiz,Intermediate,1,1
+S105,99,Machine Learning,Practice,Machine Learning,Classification,Video,Advanced,0,1
+S106,95,Python,Video,Python,File Handling,Video,Advanced,0,1
+S107,90,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,1,1
+S108,37,Python,Reading,Python,Conditions,Article,Beginner,1,1
+S109,71,Web Development,Practice,Web Development,Frontend Basics,Practice,Intermediate,0,1
+S110,39,Data Science,Video,Python,File Handling,Practice,Beginner,0,0
+S111,88,Data Science,Reading,Data Science,Statistics,Practice,Advanced,0,1
+S112,69,Python,Interactive,Machine Learning,Regression,Quiz,Intermediate,1,1
+S113,95,Python,Video,Python,Functions,Video,Advanced,1,1
+S114,56,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S115,59,Python,Video,Python,Collections,Video,Intermediate,0,1
+S116,64,Python,Interactive,Python,Loops,Quiz,Intermediate,0,1
+S117,86,Data Science,Interactive,Machine Learning,Classification,Quiz,Advanced,0,1
+S118,90,Machine Learning,Interactive,Databases,Joins,Quiz,Advanced,0,1
+S119,74,Web Development,Reading,Web Development,CSS,Quiz,Intermediate,0,1
+S120,56,Data Science,Video,Data Science,NumPy,Quiz,Intermediate,1,1
+S121,80,Python,Interactive,Python,Loops,Quiz,Advanced,0,1
+S122,94,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S123,69,Data Science,Interactive,Data Science,NumPy,Quiz,Intermediate,1,1
+S124,40,Databases,Video,Databases,SQL Basics,Video,Beginner,0,1
+S125,99,Data Science,Interactive,Data Science,Pandas,Quiz,Advanced,1,1
+S126,97,Machine Learning,Practice,Machine Learning,Clustering,Practice,Advanced,0,1
+S127,99,Databases,Practice,Databases,Aggregation,Practice,Advanced,0,1
+S128,44,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,1,1
+S129,98,Databases,Reading,Databases,SQL Basics,Article,Advanced,1,1
+S130,61,Data Science,Reading,Data Science,EDA,Article,Intermediate,0,1
+S131,73,Web Development,Reading,Web Development,HTML,Article,Intermediate,1,1
+S132,97,Web Development,Video,Web Development,CSS,Quiz,Advanced,0,1
+S133,100,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S134,57,Data Science,Practice,Data Science,NumPy,Quiz,Intermediate,1,1
+S135,65,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S136,35,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S137,43,Data Science,Practice,Data Science,Data Cleaning,Practice,Beginner,0,1
+S138,52,Python,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S139,57,Machine Learning,Video,Machine Learning,Clustering,Video,Intermediate,1,1
+S140,84,Machine Learning,Practice,Machine Learning,Regression,Practice,Advanced,0,1
+S141,65,Web Development,Interactive,Web Development,APIs,Quiz,Intermediate,1,0
+S142,61,Data Science,Practice,Data Science,NumPy,Practice,Intermediate,1,1
+S143,98,Machine Learning,Reading,Machine Learning,Classification,Article,Advanced,0,1
+S144,96,Databases,Reading,Databases,Aggregation,Video,Advanced,1,1
+S145,63,Web Development,Video,Web Development,HTML,Practice,Intermediate,1,1
+S146,82,Python,Interactive,Python,Collections,Quiz,Advanced,0,1
+S147,99,Databases,Video,Data Science,NumPy,Practice,Advanced,0,0
+S148,87,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,1,1
+S149,49,Web Development,Practice,Data Science,Data Cleaning,Practice,Beginner,1,1
+S150,85,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Advanced,0,1
+S151,76,Data Science,Video,Machine Learning,Regression,Video,Intermediate,1,1
+S152,89,Web Development,Reading,Web Development,CSS,Quiz,Advanced,0,1
+S153,99,Data Science,Practice,Data Science,Data Cleaning,Quiz,Advanced,0,1
+S154,66,Machine Learning,Interactive,Python,Conditions,Article,Intermediate,0,0
+S155,41,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S156,55,Machine Learning,Interactive,Databases,Joins,Article,Intermediate,0,1
+S157,47,Python,Video,Python,Loops,Video,Beginner,1,1
+S158,41,Databases,Interactive,Databases,Joins,Quiz,Beginner,0,1
+S159,41,Python,Practice,Python,Collections,Practice,Beginner,0,1
+S160,51,Web Development,Reading,Web Development,HTML,Article,Beginner,0,1
+S161,71,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,1
+S162,72,Machine Learning,Video,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S163,41,Python,Reading,Data Science,NumPy,Article,Beginner,0,1
+S164,69,Web Development,Interactive,Web Development,APIs,Quiz,Intermediate,0,1
+S165,63,Python,Video,Python,Functions,Video,Intermediate,0,1
+S166,62,Web Development,Video,Web Development,JavaScript,Video,Intermediate,1,1
+S167,73,Databases,Interactive,Databases,SQL Basics,Quiz,Intermediate,0,1
+S168,90,Machine Learning,Practice,Machine Learning,Regression,Video,Advanced,0,1
+S169,82,Machine Learning,Video,Machine Learning,Clustering,Article,Advanced,0,1
+S170,39,Web Development,Video,Web Development,APIs,Video,Beginner,0,1
+S171,37,Python,Reading,Python,Collections,Practice,Beginner,1,1
+S172,99,Data Science,Video,Data Science,Statistics,Quiz,Advanced,1,1
+S173,36,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,1,1
+S174,67,Python,Reading,Machine Learning,Model Evaluation,Article,Intermediate,1,0
+S175,50,Databases,Reading,Databases,SQL Basics,Quiz,Beginner,0,1
+S176,83,Machine Learning,Reading,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S177,78,Web Development,Reading,Web Development,HTML,Article,Advanced,1,1
+S178,84,Data Science,Reading,Data Science,EDA,Practice,Advanced,1,0
+S179,38,Data Science,Reading,Web Development,CSS,Article,Beginner,1,1
+S180,77,Machine Learning,Video,Machine Learning,Clustering,Video,Intermediate,0,1
+S001,53,Web Development,Practice,Machine Learning,Regression,Practice,Beginner,0,1
+S002,52,Data Science,Reading,Data Science,Statistics,Article,Beginner,1,1
+S003,71,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S004,46,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S005,70,Web Development,Reading,Web Development,HTML,Article,Intermediate,0,1
+S006,75,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,0,1
+S007,46,Python,Reading,Python,Variables,Practice,Beginner,0,1
+S008,45,Data Science,Video,Python,Conditions,Video,Beginner,1,1
+S009,49,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,0,1
+S010,54,Databases,Interactive,Databases,Joins,Quiz,Beginner,0,1
+S011,71,Data Science,Video,Databases,Database Design,Quiz,Intermediate,1,0
+S012,68,Web Development,Interactive,Data Science,NumPy,Quiz,Intermediate,0,1
+S013,73,Databases,Video,Databases,Joins,Video,Intermediate,0,1
+S014,62,Web Development,Video,Web Development,Frontend Basics,Video,Intermediate,1,1
+S015,73,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,1,1
+S016,45,Python,Practice,Python,Variables,Practice,Beginner,0,1
+S017,96,Machine Learning,Reading,Databases,Aggregation,Article,Advanced,1,0
+S018,76,Python,Interactive,Python,File Handling,Quiz,Intermediate,1,1
+S019,37,Python,Video,Python,Functions,Video,Beginner,0,1
+S020,54,Machine Learning,Interactive,Machine Learning,Model Evaluation,Article,Beginner,0,1
+S021,40,Databases,Interactive,Data Science,Pandas,Quiz,Beginner,0,0
+S022,53,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Beginner,1,1
+S023,50,Databases,Video,Databases,Database Design,Video,Beginner,1,1
+S024,58,Python,Video,Python,Collections,Quiz,Intermediate,1,1
+S025,38,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,1,1
+S026,56,Web Development,Video,Web Development,Frontend Basics,Video,Intermediate,0,1
+S027,82,Web Development,Video,Web Development,CSS,Video,Advanced,1,1
+S028,75,Machine Learning,Video,Machine Learning,Preprocessing,Video,Intermediate,1,1
+S029,88,Python,Reading,Data Science,Statistics,Article,Advanced,1,1
+S030,82,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S031,50,Data Science,Video,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S032,50,Web Development,Practice,Web Development,HTML,Practice,Beginner,1,1
+S033,69,Data Science,Reading,Databases,SQL Basics,Video,Intermediate,1,0
+S034,54,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,1,1
+S035,82,Python,Practice,Python,File Handling,Quiz,Advanced,1,1
+S036,81,Web Development,Video,Web Development,HTML,Article,Advanced,0,1
+S037,98,Web Development,Practice,Web Development,APIs,Practice,Advanced,0,1
+S038,79,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,1,1
+S039,94,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S040,50,Python,Video,Python,Functions,Practice,Beginner,1,1
+S041,36,Databases,Video,Machine Learning,Clustering,Video,Beginner,0,0
+S042,76,Data Science,Practice,Machine Learning,Regression,Article,Intermediate,1,0
+S043,98,Data Science,Interactive,Python,Conditions,Quiz,Advanced,0,0
+S044,71,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S045,61,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,1,1
+S046,74,Databases,Video,Databases,Joins,Quiz,Intermediate,1,1
+S047,38,Python,Reading,Python,Variables,Quiz,Beginner,0,1
+S048,90,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,0,1
+S049,42,Python,Reading,Data Science,EDA,Article,Beginner,0,1
+S050,95,Machine Learning,Practice,Python,Functions,Quiz,Advanced,0,0
+S051,79,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,1,1
+S052,35,Databases,Interactive,Python,Variables,Quiz,Beginner,0,0
+S053,88,Data Science,Reading,Data Science,Statistics,Article,Advanced,0,1
+S054,47,Data Science,Reading,Web Development,CSS,Article,Beginner,0,1
+S055,63,Web Development,Video,Web Development,HTML,Article,Intermediate,1,1
+S056,100,Web Development,Video,Python,Functions,Practice,Advanced,1,0
+S057,43,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,1,1
+S058,63,Python,Practice,Python,Functions,Practice,Intermediate,1,1
+S059,37,Databases,Reading,Data Science,Data Cleaning,Article,Beginner,0,1
+S060,78,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S061,59,Machine Learning,Video,Python,Collections,Video,Intermediate,0,1
+S062,55,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,0,1
+S063,69,Web Development,Reading,Web Development,HTML,Article,Intermediate,0,1
+S064,75,Web Development,Video,Web Development,Frontend Basics,Video,Intermediate,1,1
+S065,75,Python,Video,Python,Conditions,Video,Intermediate,0,1
+S066,70,Data Science,Practice,Data Science,NumPy,Article,Intermediate,0,1
+S067,48,Machine Learning,Video,Machine Learning,Clustering,Practice,Beginner,0,1
+S068,77,Python,Reading,Web Development,APIs,Article,Intermediate,0,1
+S069,41,Databases,Interactive,Machine Learning,Regression,Quiz,Beginner,1,0
+S070,65,Python,Reading,Python,Loops,Article,Intermediate,0,1
+S071,47,Data Science,Video,Data Science,Visualization,Video,Beginner,1,1
+S072,62,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S073,100,Databases,Practice,Databases,SQL Basics,Practice,Advanced,1,1
+S074,59,Databases,Interactive,Databases,Joins,Article,Intermediate,1,1
+S075,41,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,1,1
+S076,42,Python,Video,Python,Functions,Video,Beginner,0,1
+S077,62,Databases,Reading,Databases,Database Design,Article,Intermediate,1,1
+S078,96,Databases,Interactive,Databases,SQL Basics,Quiz,Advanced,1,1
+S079,89,Machine Learning,Video,Data Science,NumPy,Video,Advanced,1,1
+S080,49,Data Science,Practice,Data Science,Data Cleaning,Practice,Beginner,0,1
+S081,84,Python,Practice,Python,Functions,Article,Advanced,1,1
+S082,98,Machine Learning,Interactive,Machine Learning,Clustering,Video,Advanced,0,1
+S083,93,Machine Learning,Practice,Machine Learning,Clustering,Video,Advanced,1,1
+S084,90,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,1,1
+S085,56,Databases,Reading,Databases,Database Design,Article,Intermediate,1,1
+S086,67,Web Development,Video,Web Development,Frontend Basics,Video,Intermediate,1,1
+S087,99,Python,Practice,Python,Variables,Video,Advanced,0,1
+S088,79,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S089,53,Data Science,Practice,Data Science,NumPy,Practice,Beginner,0,1
+S090,61,Data Science,Reading,Data Science,EDA,Quiz,Intermediate,0,1
+S091,99,Python,Reading,Python,Functions,Article,Advanced,1,1
+S092,47,Web Development,Practice,Web Development,JavaScript,Practice,Beginner,0,1
+S093,64,Data Science,Video,Data Science,Visualization,Video,Intermediate,1,1
+S094,78,Python,Practice,Python,Loops,Practice,Advanced,1,1
+S095,99,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,1,1
+S096,39,Data Science,Video,Data Science,Statistics,Video,Beginner,1,1
+S097,74,Python,Interactive,Python,Loops,Practice,Intermediate,1,1
+S098,57,Databases,Reading,Databases,Aggregation,Article,Intermediate,0,1
+S099,98,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,0,1
+S100,82,Data Science,Practice,Data Science,NumPy,Practice,Advanced,0,1
+S101,59,Data Science,Reading,Data Science,NumPy,Article,Intermediate,0,1
+S102,36,Python,Video,Python,Functions,Practice,Beginner,0,1
+S103,66,Data Science,Practice,Machine Learning,Clustering,Practice,Intermediate,0,1
+S104,73,Python,Video,Python,File Handling,Video,Intermediate,0,1
+S105,70,Machine Learning,Interactive,Data Science,EDA,Quiz,Intermediate,1,0
+S106,96,Data Science,Practice,Data Science,Statistics,Practice,Advanced,1,1
+S107,78,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S108,37,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S109,90,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,0,1
+S110,87,Machine Learning,Interactive,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S111,41,Data Science,Video,Web Development,Frontend Basics,Video,Beginner,0,1
+S112,63,Data Science,Practice,Machine Learning,Model Evaluation,Video,Intermediate,0,0
+S113,82,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Advanced,1,1
+S114,43,Web Development,Practice,Python,File Handling,Quiz,Beginner,1,0
+S115,79,Python,Video,Python,Functions,Video,Advanced,0,1
+S116,84,Python,Interactive,Data Science,EDA,Quiz,Advanced,0,1
+S117,62,Databases,Interactive,Web Development,APIs,Quiz,Intermediate,1,0
+S118,67,Python,Interactive,Python,File Handling,Quiz,Intermediate,0,1
+S119,91,Data Science,Video,Data Science,Data Cleaning,Article,Advanced,0,1
+S120,55,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,0,1
+S121,50,Data Science,Reading,Data Science,NumPy,Quiz,Beginner,0,1
+S122,85,Databases,Video,Databases,Database Design,Article,Advanced,1,1
+S123,63,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,1,1
+S124,56,Python,Practice,Python,Collections,Quiz,Intermediate,1,1
+S125,62,Python,Video,Python,Loops,Article,Intermediate,0,1
+S126,58,Python,Reading,Python,Loops,Article,Intermediate,0,1
+S127,44,Data Science,Reading,Data Science,NumPy,Article,Beginner,0,1
+S128,90,Databases,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,0
+S129,89,Databases,Interactive,Databases,Joins,Quiz,Advanced,1,1
+S130,83,Web Development,Practice,Web Development,JavaScript,Quiz,Advanced,0,1
+S131,38,Web Development,Practice,Web Development,CSS,Practice,Beginner,0,1
+S132,70,Data Science,Practice,Data Science,Pandas,Practice,Intermediate,0,1
+S133,58,Web Development,Interactive,Web Development,HTML,Practice,Intermediate,1,1
+S134,94,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,1,1
+S135,68,Web Development,Interactive,Web Development,HTML,Quiz,Intermediate,0,1
+S136,92,Machine Learning,Video,Machine Learning,Classification,Article,Advanced,1,1
+S137,52,Machine Learning,Video,Machine Learning,Preprocessing,Article,Beginner,1,1
+S138,84,Web Development,Interactive,Databases,Aggregation,Quiz,Advanced,1,0
+S139,65,Machine Learning,Reading,Python,Loops,Article,Intermediate,0,1
+S140,76,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,1,1
+S141,35,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Beginner,0,1
+S142,90,Databases,Reading,Databases,SQL Basics,Video,Advanced,1,1
+S143,94,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,0,1
+S144,59,Machine Learning,Interactive,Databases,Joins,Video,Intermediate,0,0
+S145,87,Databases,Reading,Databases,Joins,Article,Advanced,1,1
+S146,80,Databases,Practice,Web Development,APIs,Practice,Advanced,0,1
+S147,84,Python,Reading,Python,Variables,Video,Advanced,1,0
+S148,63,Web Development,Video,Web Development,APIs,Video,Intermediate,0,1
+S149,67,Databases,Video,Databases,Joins,Article,Intermediate,1,0
+S150,39,Databases,Reading,Databases,Database Design,Article,Beginner,1,1
+S151,88,Databases,Video,Databases,Database Design,Video,Advanced,1,1
+S152,74,Machine Learning,Reading,Machine Learning,Classification,Video,Intermediate,0,1
+S153,67,Python,Practice,Python,Loops,Practice,Intermediate,0,1
+S154,68,Python,Reading,Databases,SQL Basics,Practice,Intermediate,1,0
+S155,58,Databases,Video,Databases,Aggregation,Video,Intermediate,0,1
+S156,93,Python,Video,Python,Conditions,Video,Advanced,1,1
+S157,77,Machine Learning,Interactive,Machine Learning,Preprocessing,Video,Intermediate,0,1
+S158,66,Machine Learning,Interactive,Machine Learning,Clustering,Video,Intermediate,0,1
+S159,36,Machine Learning,Practice,Machine Learning,Classification,Article,Beginner,0,1
+S160,91,Data Science,Practice,Data Science,EDA,Practice,Advanced,0,1
+S161,94,Web Development,Practice,Python,Collections,Practice,Advanced,1,1
+S162,85,Data Science,Reading,Machine Learning,Preprocessing,Article,Advanced,0,1
+S163,88,Web Development,Video,Web Development,CSS,Video,Advanced,0,1
+S164,72,Web Development,Interactive,Web Development,APIs,Quiz,Intermediate,1,1
+S165,88,Python,Reading,Machine Learning,Clustering,Article,Advanced,1,0
+S166,81,Databases,Video,Databases,Aggregation,Practice,Advanced,1,1
+S167,79,Machine Learning,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S168,88,Databases,Video,Data Science,Visualization,Video,Advanced,1,1
+S169,48,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Beginner,0,1
+S170,36,Data Science,Practice,Data Science,Visualization,Practice,Beginner,1,1
+S171,79,Databases,Video,Databases,Joins,Practice,Advanced,0,1
+S172,73,Python,Reading,Python,Loops,Article,Intermediate,0,1
+S173,63,Python,Reading,Python,Loops,Article,Intermediate,0,1
+S174,85,Data Science,Video,Python,Loops,Video,Advanced,1,1
+S175,55,Databases,Video,Databases,SQL Basics,Video,Intermediate,1,1
+S176,80,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S177,94,Data Science,Video,Data Science,Visualization,Video,Advanced,1,1
+S178,46,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,1,1
+S179,81,Web Development,Practice,Web Development,JavaScript,Practice,Advanced,1,1
+S180,80,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,0,1
+S001,61,Web Development,Reading,Web Development,CSS,Article,Intermediate,0,1
+S002,46,Databases,Interactive,Databases,Database Design,Practice,Beginner,1,1
+S003,43,Databases,Video,Databases,Aggregation,Video,Beginner,1,1
+S004,53,Web Development,Interactive,Web Development,JavaScript,Practice,Beginner,1,1
+S005,88,Web Development,Video,Data Science,Visualization,Video,Advanced,0,0
+S006,90,Web Development,Reading,Web Development,APIs,Article,Advanced,1,1
+S007,37,Machine Learning,Video,Machine Learning,Clustering,Video,Beginner,0,1
+S008,81,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S009,84,Databases,Practice,Databases,Aggregation,Article,Advanced,0,1
+S010,78,Machine Learning,Practice,Machine Learning,Model Evaluation,Quiz,Advanced,1,1
+S011,82,Python,Interactive,Python,Loops,Article,Advanced,0,1
+S012,98,Data Science,Reading,Web Development,JavaScript,Article,Advanced,1,1
+S013,90,Web Development,Video,Web Development,Frontend Basics,Video,Advanced,0,1
+S014,47,Data Science,Video,Web Development,Frontend Basics,Video,Beginner,1,0
+S015,39,Python,Interactive,Databases,Aggregation,Quiz,Beginner,1,1
+S016,47,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,0,1
+S017,52,Databases,Interactive,Databases,Joins,Quiz,Beginner,1,1
+S018,88,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S019,49,Web Development,Interactive,Web Development,HTML,Quiz,Beginner,1,1
+S020,80,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,1,1
+S021,47,Web Development,Interactive,Web Development,HTML,Quiz,Beginner,0,1
+S022,50,Databases,Video,Databases,Database Design,Video,Beginner,0,1
+S023,92,Databases,Reading,Web Development,CSS,Article,Advanced,0,0
+S024,97,Machine Learning,Video,Data Science,Visualization,Video,Advanced,0,1
+S025,73,Databases,Video,Databases,Aggregation,Article,Intermediate,0,1
+S026,67,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S027,80,Python,Video,Python,Collections,Quiz,Advanced,1,1
+S028,86,Databases,Interactive,Databases,Joins,Quiz,Advanced,0,1
+S029,93,Python,Interactive,Python,Variables,Article,Advanced,1,1
+S030,99,Databases,Video,Databases,Aggregation,Video,Advanced,0,1
+S031,35,Data Science,Reading,Data Science,Pandas,Article,Beginner,1,1
+S032,52,Python,Video,Python,File Handling,Video,Beginner,1,1
+S033,57,Web Development,Video,Web Development,HTML,Video,Intermediate,1,1
+S034,93,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,1,1
+S035,54,Machine Learning,Interactive,Python,File Handling,Quiz,Beginner,0,1
+S036,41,Machine Learning,Practice,Machine Learning,Clustering,Article,Beginner,1,1
+S037,81,Databases,Video,Databases,Database Design,Practice,Advanced,1,0
+S038,92,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S039,67,Web Development,Reading,Web Development,HTML,Video,Intermediate,1,1
+S040,53,Web Development,Video,Web Development,JavaScript,Video,Beginner,0,1
+S041,71,Machine Learning,Reading,Machine Learning,Clustering,Quiz,Intermediate,1,1
+S042,46,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Beginner,0,1
+S043,60,Python,Practice,Python,Variables,Practice,Intermediate,1,1
+S044,100,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S045,69,Web Development,Reading,Web Development,JavaScript,Quiz,Intermediate,1,1
+S046,58,Data Science,Video,Data Science,Data Cleaning,Video,Intermediate,1,1
+S047,73,Python,Interactive,Databases,Database Design,Quiz,Intermediate,1,1
+S048,86,Data Science,Reading,Data Science,Statistics,Article,Advanced,0,1
+S049,46,Data Science,Practice,Data Science,EDA,Article,Beginner,1,1
+S050,94,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,1,1
+S051,42,Python,Reading,Python,Functions,Article,Beginner,1,1
+S052,37,Databases,Video,Databases,SQL Basics,Video,Beginner,0,1
+S053,86,Python,Interactive,Python,Loops,Video,Advanced,0,1
+S054,74,Web Development,Reading,Web Development,APIs,Quiz,Intermediate,1,1
+S055,39,Python,Video,Python,Variables,Article,Beginner,1,1
+S056,44,Databases,Video,Databases,Database Design,Video,Beginner,0,1
+S057,92,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Advanced,0,1
+S058,69,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,1,1
+S059,60,Data Science,Practice,Data Science,EDA,Article,Intermediate,1,1
+S060,84,Python,Reading,Python,Functions,Article,Advanced,1,1
+S061,47,Databases,Practice,Databases,SQL Basics,Practice,Beginner,0,1
+S062,96,Data Science,Practice,Data Science,EDA,Article,Advanced,0,1
+S063,75,Python,Reading,Python,Collections,Article,Intermediate,0,1
+S064,82,Machine Learning,Practice,Web Development,Frontend Basics,Practice,Advanced,1,1
+S065,94,Databases,Reading,Databases,Aggregation,Video,Advanced,0,1
+S066,62,Machine Learning,Video,Machine Learning,Regression,Quiz,Intermediate,0,1
+S067,80,Data Science,Video,Data Science,NumPy,Video,Advanced,0,1
+S068,56,Databases,Video,Databases,Joins,Video,Intermediate,0,1
+S069,80,Machine Learning,Reading,Python,Conditions,Article,Advanced,1,0
+S070,100,Databases,Video,Databases,Aggregation,Video,Advanced,0,1
+S071,97,Python,Interactive,Python,Collections,Practice,Advanced,0,1
+S072,69,Python,Reading,Databases,SQL Basics,Article,Intermediate,1,1
+S073,92,Data Science,Video,Data Science,Visualization,Quiz,Advanced,0,1
+S074,36,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,0,1
+S075,99,Data Science,Video,Data Science,Data Cleaning,Quiz,Advanced,0,1
+S076,52,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S077,89,Python,Reading,Python,File Handling,Video,Advanced,0,1
+S078,43,Databases,Practice,Databases,Aggregation,Practice,Beginner,1,1
+S079,95,Databases,Reading,Python,Functions,Article,Advanced,1,1
+S080,68,Web Development,Interactive,Web Development,HTML,Video,Intermediate,1,1
+S081,95,Web Development,Reading,Web Development,HTML,Article,Advanced,1,1
+S082,53,Databases,Practice,Machine Learning,Model Evaluation,Practice,Beginner,1,1
+S083,100,Python,Interactive,Python,Loops,Video,Advanced,1,1
+S084,75,Python,Practice,Python,File Handling,Article,Intermediate,0,1
+S085,55,Databases,Practice,Databases,Database Design,Practice,Intermediate,1,1
+S086,74,Machine Learning,Video,Machine Learning,Model Evaluation,Quiz,Intermediate,1,1
+S087,75,Databases,Practice,Databases,Joins,Practice,Intermediate,0,1
+S088,39,Databases,Reading,Databases,Aggregation,Article,Beginner,1,1
+S089,49,Python,Reading,Python,File Handling,Article,Beginner,1,1
+S090,86,Machine Learning,Practice,Machine Learning,Clustering,Practice,Advanced,0,1
+S091,58,Python,Practice,Databases,Aggregation,Video,Intermediate,1,0
+S092,49,Databases,Reading,Web Development,Frontend Basics,Video,Beginner,1,0
+S093,93,Web Development,Practice,Web Development,HTML,Practice,Advanced,1,1
+S094,72,Data Science,Interactive,Data Science,Pandas,Quiz,Intermediate,0,1
+S095,62,Databases,Interactive,Machine Learning,Classification,Quiz,Intermediate,1,1
+S096,98,Machine Learning,Interactive,Machine Learning,Preprocessing,Video,Advanced,0,1
+S097,91,Machine Learning,Reading,Web Development,Frontend Basics,Article,Advanced,1,0
+S098,61,Databases,Reading,Python,Functions,Article,Intermediate,0,1
+S099,88,Web Development,Reading,Data Science,EDA,Article,Advanced,1,1
+S100,59,Data Science,Reading,Data Science,NumPy,Article,Intermediate,1,1
+S101,51,Machine Learning,Video,Web Development,HTML,Video,Beginner,0,0
+S102,53,Machine Learning,Video,Machine Learning,Classification,Article,Beginner,1,1
+S103,60,Machine Learning,Video,Machine Learning,Clustering,Article,Intermediate,0,1
+S104,91,Machine Learning,Video,Machine Learning,Regression,Video,Advanced,1,1
+S105,80,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,1,1
+S106,68,Machine Learning,Reading,Python,Collections,Article,Intermediate,1,0
+S107,98,Databases,Reading,Databases,Aggregation,Article,Advanced,0,1
+S108,95,Machine Learning,Practice,Machine Learning,Preprocessing,Video,Advanced,1,0
+S109,46,Data Science,Reading,Web Development,CSS,Article,Beginner,0,1
+S110,69,Data Science,Interactive,Data Science,Visualization,Article,Intermediate,0,1
+S111,58,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Intermediate,0,1
+S112,40,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Beginner,0,1
+S113,87,Data Science,Reading,Data Science,Statistics,Article,Advanced,0,1
+S114,50,Databases,Practice,Data Science,Visualization,Practice,Beginner,1,0
+S115,41,Web Development,Reading,Web Development,CSS,Article,Beginner,1,1
+S116,43,Python,Video,Python,Functions,Video,Beginner,1,1
+S117,50,Databases,Video,Python,Loops,Video,Beginner,1,0
+S118,47,Databases,Interactive,Databases,Aggregation,Video,Beginner,0,1
+S119,89,Data Science,Interactive,Data Science,EDA,Video,Advanced,0,1
+S120,39,Web Development,Interactive,Web Development,APIs,Practice,Beginner,1,1
+S121,63,Machine Learning,Video,Machine Learning,Clustering,Video,Intermediate,1,1
+S122,66,Web Development,Practice,Databases,SQL Basics,Practice,Intermediate,0,1
+S123,70,Data Science,Video,Data Science,EDA,Video,Intermediate,1,1
+S124,74,Python,Video,Python,Conditions,Video,Intermediate,1,1
+S125,51,Python,Video,Machine Learning,Preprocessing,Video,Beginner,1,0
+S126,45,Python,Interactive,Python,Loops,Quiz,Beginner,1,1
+S127,86,Python,Reading,Python,Collections,Article,Advanced,0,1
+S128,98,Data Science,Reading,Data Science,Statistics,Quiz,Advanced,0,1
+S129,85,Databases,Reading,Databases,SQL Basics,Article,Advanced,0,1
+S130,79,Data Science,Video,Data Science,Pandas,Quiz,Advanced,0,1
+S131,47,Machine Learning,Practice,Machine Learning,Clustering,Quiz,Beginner,1,1
+S132,91,Python,Video,Python,Collections,Video,Advanced,1,1
+S133,50,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S134,56,Python,Video,Python,Collections,Video,Intermediate,1,1
+S135,58,Python,Video,Python,File Handling,Video,Intermediate,0,1
+S136,38,Machine Learning,Reading,Machine Learning,Classification,Article,Beginner,1,1
+S137,38,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,0,1
+S138,57,Python,Video,Python,Conditions,Video,Intermediate,1,1
+S139,55,Python,Reading,Python,File Handling,Article,Intermediate,1,1
+S140,85,Data Science,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S141,53,Data Science,Reading,Data Science,Statistics,Article,Beginner,1,1
+S142,83,Databases,Practice,Machine Learning,Model Evaluation,Practice,Advanced,0,0
+S143,98,Python,Interactive,Machine Learning,Classification,Quiz,Advanced,0,1
+S144,35,Data Science,Interactive,Data Science,EDA,Quiz,Beginner,0,1
+S145,93,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S146,51,Python,Reading,Python,Collections,Article,Beginner,0,1
+S147,47,Web Development,Reading,Web Development,HTML,Article,Beginner,0,1
+S148,75,Web Development,Reading,Databases,Database Design,Article,Intermediate,0,1
+S149,51,Python,Practice,Python,Variables,Practice,Beginner,1,1
+S150,38,Data Science,Reading,Data Science,Pandas,Practice,Beginner,1,1
+S151,72,Machine Learning,Video,Python,Variables,Video,Intermediate,0,1
+S152,37,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Beginner,0,1
+S153,42,Databases,Reading,Databases,Database Design,Video,Beginner,0,1
+S154,67,Python,Reading,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S155,43,Databases,Video,Python,Collections,Video,Beginner,0,1
+S156,74,Databases,Reading,Databases,SQL Basics,Article,Intermediate,1,1
+S157,56,Data Science,Reading,Data Science,EDA,Article,Intermediate,1,1
+S158,54,Web Development,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S159,79,Data Science,Practice,Machine Learning,Classification,Practice,Advanced,0,1
+S160,72,Databases,Reading,Databases,Database Design,Article,Intermediate,0,1
+S161,72,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S162,89,Python,Video,Python,Variables,Practice,Advanced,1,1
+S163,88,Databases,Practice,Web Development,APIs,Practice,Advanced,1,1
+S164,40,Web Development,Reading,Web Development,Frontend Basics,Article,Beginner,1,1
+S165,74,Web Development,Video,Web Development,Frontend Basics,Video,Intermediate,1,1
+S166,66,Web Development,Reading,Web Development,JavaScript,Practice,Intermediate,1,1
+S167,73,Python,Reading,Python,Conditions,Article,Intermediate,0,1
+S168,51,Python,Reading,Python,File Handling,Quiz,Beginner,1,0
+S169,40,Data Science,Video,Databases,Joins,Video,Beginner,1,0
+S170,35,Python,Practice,Python,Collections,Article,Beginner,1,1
+S171,58,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,1,1
+S172,40,Data Science,Reading,Data Science,NumPy,Article,Beginner,0,1
+S173,86,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,0,1
+S174,53,Python,Video,Python,Collections,Practice,Beginner,0,1
+S175,41,Data Science,Interactive,Data Science,Statistics,Quiz,Beginner,0,1
+S176,99,Python,Reading,Databases,Joins,Article,Advanced,1,0
+S177,100,Web Development,Reading,Web Development,JavaScript,Video,Advanced,0,1
+S178,94,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Advanced,0,1
+S179,43,Databases,Practice,Databases,SQL Basics,Article,Beginner,1,1
+S180,72,Machine Learning,Practice,Machine Learning,Classification,Video,Intermediate,1,1
+S001,87,Python,Video,Python,Variables,Quiz,Advanced,1,1
+S002,38,Python,Video,Web Development,CSS,Video,Beginner,1,0
+S003,87,Databases,Interactive,Machine Learning,Clustering,Quiz,Advanced,0,1
+S004,58,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Intermediate,1,1
+S005,60,Python,Reading,Data Science,EDA,Article,Intermediate,1,1
+S006,81,Data Science,Reading,Web Development,JavaScript,Article,Advanced,1,0
+S007,42,Databases,Reading,Databases,Aggregation,Article,Beginner,1,1
+S008,83,Machine Learning,Practice,Machine Learning,Clustering,Quiz,Advanced,0,1
+S009,94,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S010,71,Data Science,Interactive,Data Science,EDA,Quiz,Intermediate,1,1
+S011,45,Databases,Practice,Databases,Database Design,Practice,Beginner,0,1
+S012,50,Data Science,Interactive,Web Development,JavaScript,Quiz,Beginner,1,0
+S013,57,Databases,Reading,Databases,Joins,Article,Intermediate,0,1
+S014,52,Web Development,Video,Databases,Database Design,Video,Beginner,0,1
+S015,41,Web Development,Practice,Web Development,APIs,Practice,Beginner,0,1
+S016,40,Databases,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S017,50,Machine Learning,Reading,Python,Functions,Article,Beginner,1,1
+S018,54,Web Development,Interactive,Web Development,HTML,Quiz,Beginner,1,1
+S019,37,Machine Learning,Practice,Machine Learning,Clustering,Practice,Beginner,0,1
+S020,86,Machine Learning,Video,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S021,61,Web Development,Video,Web Development,HTML,Video,Intermediate,1,1
+S022,57,Data Science,Practice,Data Science,Data Cleaning,Practice,Intermediate,0,1
+S023,86,Data Science,Video,Data Science,EDA,Video,Advanced,1,1
+S024,100,Python,Reading,Web Development,CSS,Article,Advanced,1,1
+S025,78,Data Science,Practice,Data Science,Visualization,Practice,Advanced,1,1
+S026,45,Machine Learning,Practice,Machine Learning,Classification,Article,Beginner,0,1
+S027,45,Data Science,Interactive,Data Science,Pandas,Quiz,Beginner,1,1
+S028,92,Python,Interactive,Machine Learning,Preprocessing,Practice,Advanced,0,0
+S029,62,Data Science,Practice,Data Science,EDA,Video,Intermediate,0,1
+S030,69,Databases,Interactive,Python,Conditions,Quiz,Intermediate,0,1
+S031,86,Databases,Interactive,Databases,Aggregation,Quiz,Advanced,1,1
+S032,74,Python,Video,Python,Functions,Video,Intermediate,1,1
+S033,76,Data Science,Interactive,Databases,SQL Basics,Quiz,Intermediate,1,0
+S034,69,Python,Interactive,Python,Functions,Quiz,Intermediate,1,1
+S035,38,Machine Learning,Practice,Machine Learning,Classification,Article,Beginner,0,1
+S036,91,Web Development,Reading,Web Development,JavaScript,Article,Advanced,1,1
+S037,93,Python,Reading,Python,Collections,Article,Advanced,0,1
+S038,54,Machine Learning,Video,Machine Learning,Classification,Video,Beginner,1,1
+S039,76,Web Development,Video,Machine Learning,Regression,Video,Intermediate,0,1
+S040,85,Web Development,Reading,Machine Learning,Clustering,Article,Advanced,0,1
+S041,95,Web Development,Reading,Web Development,JavaScript,Article,Advanced,0,1
+S042,73,Web Development,Video,Databases,Joins,Video,Intermediate,1,1
+S043,57,Data Science,Reading,Data Science,Data Cleaning,Article,Intermediate,0,1
+S044,82,Data Science,Interactive,Web Development,CSS,Quiz,Advanced,0,1
+S045,63,Python,Practice,Python,Collections,Practice,Intermediate,1,1
+S046,47,Data Science,Interactive,Data Science,NumPy,Quiz,Beginner,1,1
+S047,83,Python,Video,Python,File Handling,Video,Advanced,0,1
+S048,93,Machine Learning,Reading,Machine Learning,Clustering,Quiz,Advanced,1,1
+S049,41,Web Development,Practice,Web Development,APIs,Quiz,Beginner,1,1
+S050,42,Databases,Interactive,Databases,Database Design,Article,Beginner,1,1
+S051,98,Machine Learning,Video,Databases,SQL Basics,Article,Advanced,0,1
+S052,53,Web Development,Practice,Web Development,APIs,Practice,Beginner,0,1
+S053,97,Python,Video,Python,Variables,Video,Advanced,0,1
+S054,69,Python,Practice,Data Science,Statistics,Practice,Intermediate,1,1
+S055,76,Databases,Reading,Databases,Database Design,Article,Intermediate,0,1
+S056,49,Data Science,Video,Data Science,EDA,Video,Beginner,0,1
+S057,93,Data Science,Reading,Data Science,Visualization,Article,Advanced,0,1
+S058,87,Machine Learning,Interactive,Data Science,EDA,Practice,Advanced,1,1
+S059,73,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S060,49,Databases,Practice,Databases,SQL Basics,Practice,Beginner,1,1
+S061,87,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,0,1
+S062,63,Machine Learning,Interactive,Databases,Database Design,Quiz,Intermediate,0,1
+S063,48,Databases,Interactive,Databases,SQL Basics,Quiz,Beginner,0,1
+S064,45,Python,Practice,Python,Collections,Practice,Beginner,0,1
+S065,81,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Advanced,1,1
+S066,75,Python,Reading,Data Science,Pandas,Article,Intermediate,0,1
+S067,95,Databases,Reading,Databases,Joins,Practice,Advanced,1,1
+S068,99,Web Development,Practice,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S069,47,Web Development,Interactive,Web Development,Frontend Basics,Article,Beginner,1,1
+S070,87,Web Development,Practice,Web Development,JavaScript,Practice,Advanced,0,1
+S071,46,Databases,Reading,Data Science,EDA,Article,Beginner,0,1
+S072,50,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,0,1
+S073,73,Databases,Practice,Databases,Joins,Practice,Intermediate,0,1
+S074,52,Machine Learning,Interactive,Machine Learning,Model Evaluation,Video,Beginner,0,1
+S075,37,Machine Learning,Reading,Machine Learning,Regression,Practice,Beginner,0,1
+S076,97,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,0,1
+S077,49,Python,Reading,Data Science,Visualization,Article,Beginner,1,0
+S078,65,Data Science,Practice,Data Science,Statistics,Practice,Intermediate,1,1
+S079,38,Machine Learning,Video,Machine Learning,Classification,Video,Beginner,0,1
+S080,96,Python,Interactive,Python,Functions,Quiz,Advanced,1,1
+S081,46,Python,Practice,Web Development,CSS,Practice,Beginner,0,1
+S082,95,Data Science,Practice,Data Science,EDA,Practice,Advanced,0,1
+S083,51,Databases,Reading,Databases,Joins,Practice,Beginner,0,1
+S084,38,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,0,1
+S085,95,Python,Interactive,Python,Variables,Quiz,Advanced,0,1
+S086,87,Web Development,Video,Web Development,CSS,Video,Advanced,1,1
+S087,57,Databases,Practice,Databases,Aggregation,Practice,Intermediate,0,1
+S088,57,Data Science,Reading,Python,Variables,Article,Intermediate,1,0
+S089,57,Python,Practice,Databases,Aggregation,Practice,Intermediate,1,0
+S090,63,Python,Practice,Python,Collections,Practice,Intermediate,1,1
+S091,44,Web Development,Video,Web Development,JavaScript,Article,Beginner,1,0
+S092,94,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S093,59,Data Science,Interactive,Data Science,Visualization,Quiz,Intermediate,1,1
+S094,40,Python,Interactive,Python,Variables,Quiz,Beginner,1,1
+S095,36,Machine Learning,Practice,Databases,SQL Basics,Article,Beginner,0,0
+S096,94,Data Science,Reading,Python,Loops,Practice,Advanced,1,0
+S097,81,Python,Video,Python,Functions,Video,Advanced,0,1
+S098,54,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,0,1
+S099,44,Web Development,Interactive,Web Development,HTML,Quiz,Beginner,1,1
+S100,74,Machine Learning,Interactive,Machine Learning,Classification,Quiz,Intermediate,0,1
+S101,36,Python,Video,Python,Variables,Article,Beginner,0,1
+S102,55,Python,Reading,Python,File Handling,Article,Intermediate,1,1
+S103,70,Web Development,Practice,Web Development,CSS,Article,Intermediate,1,1
+S104,44,Databases,Practice,Databases,Joins,Video,Beginner,1,1
+S105,40,Databases,Video,Machine Learning,Regression,Video,Beginner,1,0
+S106,80,Python,Interactive,Python,Collections,Quiz,Advanced,1,1
+S107,60,Databases,Video,Databases,Database Design,Article,Intermediate,1,1
+S108,37,Python,Interactive,Python,Functions,Quiz,Beginner,1,1
+S109,90,Web Development,Practice,Web Development,CSS,Video,Advanced,0,1
+S110,46,Python,Video,Python,File Handling,Video,Beginner,0,1
+S111,76,Databases,Reading,Databases,Database Design,Article,Intermediate,1,1
+S112,71,Databases,Reading,Databases,Joins,Article,Intermediate,0,1
+S113,60,Databases,Video,Databases,Aggregation,Practice,Intermediate,0,1
+S114,60,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,0,1
+S115,54,Machine Learning,Video,Machine Learning,Clustering,Video,Beginner,0,1
+S116,44,Data Science,Practice,Data Science,EDA,Quiz,Beginner,1,1
+S117,76,Data Science,Practice,Databases,Joins,Practice,Intermediate,0,1
+S118,56,Machine Learning,Practice,Machine Learning,Classification,Practice,Intermediate,1,1
+S119,61,Databases,Reading,Databases,Database Design,Article,Intermediate,0,1
+S120,80,Data Science,Practice,Data Science,Visualization,Video,Advanced,1,1
+S121,66,Machine Learning,Video,Machine Learning,Regression,Quiz,Intermediate,1,1
+S122,74,Web Development,Video,Web Development,Frontend Basics,Practice,Intermediate,1,1
+S123,97,Databases,Reading,Web Development,CSS,Article,Advanced,1,1
+S124,53,Databases,Interactive,Databases,Database Design,Quiz,Beginner,1,1
+S125,62,Web Development,Interactive,Web Development,APIs,Video,Intermediate,1,1
+S126,94,Python,Interactive,Python,Loops,Quiz,Advanced,0,1
+S127,75,Web Development,Reading,Web Development,JavaScript,Article,Intermediate,0,1
+S128,68,Web Development,Reading,Web Development,HTML,Article,Intermediate,0,1
+S129,95,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Advanced,0,1
+S130,63,Web Development,Practice,Web Development,APIs,Practice,Intermediate,1,1
+S131,53,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S132,79,Python,Reading,Python,File Handling,Quiz,Advanced,0,1
+S133,62,Web Development,Interactive,Python,Functions,Quiz,Intermediate,0,1
+S134,76,Machine Learning,Practice,Machine Learning,Preprocessing,Article,Intermediate,0,1
+S135,90,Data Science,Practice,Data Science,NumPy,Article,Advanced,1,1
+S136,66,Machine Learning,Interactive,Machine Learning,Preprocessing,Article,Intermediate,1,1
+S137,91,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,0,1
+S138,100,Databases,Video,Databases,Joins,Video,Advanced,1,1
+S139,52,Data Science,Reading,Data Science,EDA,Article,Beginner,1,1
+S140,92,Machine Learning,Video,Python,Variables,Video,Advanced,1,1
+S141,75,Databases,Practice,Machine Learning,Preprocessing,Practice,Intermediate,0,1
+S142,100,Data Science,Interactive,Web Development,Frontend Basics,Quiz,Advanced,1,1
+S143,78,Machine Learning,Video,Data Science,Pandas,Video,Advanced,0,0
+S144,70,Databases,Interactive,Databases,Joins,Quiz,Intermediate,0,1
+S145,49,Databases,Practice,Databases,Database Design,Video,Beginner,1,1
+S146,35,Python,Video,Python,Loops,Video,Beginner,0,1
+S147,70,Data Science,Video,Data Science,Visualization,Article,Intermediate,1,1
+S148,60,Data Science,Reading,Data Science,EDA,Quiz,Intermediate,1,0
+S149,69,Python,Video,Web Development,CSS,Video,Intermediate,0,1
+S150,59,Data Science,Practice,Data Science,EDA,Quiz,Intermediate,0,1
+S151,61,Databases,Practice,Web Development,CSS,Practice,Intermediate,1,1
+S152,74,Data Science,Video,Data Science,EDA,Practice,Intermediate,1,1
+S153,98,Databases,Video,Databases,Database Design,Video,Advanced,1,1
+S154,54,Python,Video,Python,Loops,Video,Beginner,0,1
+S155,49,Databases,Practice,Databases,Aggregation,Practice,Beginner,0,1
+S156,43,Python,Interactive,Python,Variables,Quiz,Beginner,1,1
+S157,70,Python,Interactive,Python,Collections,Quiz,Intermediate,1,1
+S158,42,Web Development,Reading,Web Development,CSS,Article,Beginner,1,1
+S159,63,Data Science,Practice,Databases,Joins,Quiz,Intermediate,1,0
+S160,50,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Beginner,1,1
+S161,91,Web Development,Video,Web Development,CSS,Quiz,Advanced,1,1
+S162,53,Data Science,Video,Data Science,NumPy,Quiz,Beginner,0,1
+S163,73,Web Development,Practice,Web Development,HTML,Video,Intermediate,1,1
+S164,66,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,1,1
+S165,78,Databases,Practice,Databases,Database Design,Article,Advanced,1,1
+S166,51,Data Science,Interactive,Data Science,Statistics,Quiz,Beginner,1,1
+S167,60,Python,Reading,Python,Loops,Article,Intermediate,1,1
+S168,51,Python,Practice,Web Development,HTML,Practice,Beginner,1,0
+S169,91,Web Development,Interactive,Web Development,CSS,Quiz,Advanced,0,1
+S170,66,Machine Learning,Interactive,Python,Collections,Quiz,Intermediate,1,0
+S171,99,Data Science,Reading,Data Science,Pandas,Quiz,Advanced,0,1
+S172,39,Python,Practice,Python,Variables,Quiz,Beginner,0,1
+S173,49,Machine Learning,Reading,Machine Learning,Classification,Article,Beginner,1,1
+S174,70,Data Science,Practice,Databases,SQL Basics,Practice,Intermediate,0,1
+S175,71,Machine Learning,Reading,Machine Learning,Classification,Practice,Intermediate,0,1
+S176,60,Python,Video,Python,Collections,Video,Intermediate,0,1
+S177,96,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,1,1
+S178,52,Web Development,Interactive,Web Development,JavaScript,Quiz,Beginner,1,1
+S179,62,Data Science,Reading,Data Science,NumPy,Article,Intermediate,1,1
+S180,97,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,0,1
+S001,99,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S002,54,Python,Interactive,Python,Functions,Quiz,Beginner,0,1
+S003,68,Python,Practice,Python,Loops,Article,Intermediate,1,1
+S004,84,Web Development,Interactive,Databases,Aggregation,Quiz,Advanced,0,1
+S005,97,Databases,Interactive,Data Science,Visualization,Quiz,Advanced,0,1
+S006,62,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Intermediate,1,1
+S007,84,Databases,Practice,Databases,SQL Basics,Video,Advanced,1,1
+S008,69,Databases,Interactive,Data Science,Pandas,Practice,Intermediate,0,1
+S009,73,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Intermediate,0,1
+S010,77,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,0,1
+S011,81,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S012,56,Machine Learning,Reading,Machine Learning,Classification,Article,Intermediate,1,1
+S013,47,Python,Video,Python,Variables,Video,Beginner,0,1
+S014,52,Python,Video,Python,Variables,Video,Beginner,0,1
+S015,97,Databases,Practice,Databases,SQL Basics,Quiz,Advanced,0,1
+S016,39,Python,Video,Python,Conditions,Article,Beginner,1,1
+S017,44,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Beginner,0,1
+S018,89,Python,Video,Python,Functions,Practice,Advanced,0,1
+S019,42,Databases,Video,Databases,SQL Basics,Video,Beginner,0,1
+S020,48,Web Development,Reading,Web Development,APIs,Video,Beginner,0,1
+S021,50,Web Development,Interactive,Python,Collections,Quiz,Beginner,1,0
+S022,51,Machine Learning,Practice,Machine Learning,Clustering,Practice,Beginner,0,1
+S023,45,Databases,Video,Databases,Joins,Article,Beginner,0,1
+S024,68,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S025,74,Data Science,Video,Data Science,Data Cleaning,Video,Intermediate,1,1
+S026,41,Python,Reading,Python,Variables,Practice,Beginner,0,1
+S027,96,Machine Learning,Reading,Machine Learning,Regression,Video,Advanced,0,1
+S028,55,Machine Learning,Reading,Web Development,APIs,Practice,Intermediate,1,0
+S029,76,Machine Learning,Interactive,Python,Conditions,Video,Intermediate,1,0
+S030,57,Python,Video,Data Science,NumPy,Video,Intermediate,1,0
+S031,87,Python,Interactive,Python,Variables,Quiz,Advanced,0,1
+S032,71,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,1
+S033,76,Python,Reading,Python,Variables,Article,Intermediate,1,1
+S034,80,Machine Learning,Reading,Machine Learning,Regression,Article,Advanced,0,1
+S035,53,Machine Learning,Practice,Data Science,NumPy,Video,Beginner,1,0
+S036,74,Machine Learning,Reading,Machine Learning,Model Evaluation,Quiz,Intermediate,1,1
+S037,78,Web Development,Video,Web Development,CSS,Video,Advanced,0,1
+S038,83,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,0,1
+S039,78,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S040,49,Databases,Interactive,Data Science,Statistics,Article,Beginner,0,1
+S041,52,Web Development,Practice,Web Development,Frontend Basics,Article,Beginner,1,1
+S042,69,Databases,Practice,Databases,Database Design,Practice,Intermediate,0,1
+S043,100,Databases,Interactive,Machine Learning,Clustering,Video,Advanced,1,1
+S044,69,Python,Reading,Python,Collections,Article,Intermediate,0,1
+S045,77,Machine Learning,Reading,Machine Learning,Model Evaluation,Practice,Intermediate,1,1
+S046,83,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Advanced,1,1
+S047,37,Machine Learning,Practice,Machine Learning,Classification,Quiz,Beginner,1,1
+S048,37,Python,Interactive,Python,Conditions,Quiz,Beginner,1,1
+S049,89,Databases,Video,Databases,Database Design,Video,Advanced,1,1
+S050,79,Databases,Reading,Databases,Aggregation,Video,Advanced,0,1
+S051,86,Python,Reading,Python,File Handling,Article,Advanced,0,1
+S052,55,Python,Reading,Python,Collections,Article,Intermediate,1,1
+S053,39,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Beginner,1,1
+S054,81,Python,Reading,Databases,Database Design,Article,Advanced,0,1
+S055,52,Web Development,Video,Web Development,JavaScript,Video,Beginner,1,1
+S056,67,Web Development,Interactive,Python,Collections,Video,Intermediate,0,0
+S057,55,Web Development,Reading,Web Development,CSS,Article,Intermediate,1,1
+S058,79,Python,Video,Databases,Database Design,Quiz,Advanced,1,0
+S059,71,Machine Learning,Video,Data Science,Statistics,Video,Intermediate,1,1
+S060,76,Databases,Interactive,Databases,Database Design,Quiz,Intermediate,0,1
+S061,59,Machine Learning,Video,Data Science,EDA,Video,Intermediate,1,0
+S062,63,Data Science,Interactive,Data Science,Pandas,Video,Intermediate,0,1
+S063,52,Python,Practice,Python,Collections,Practice,Beginner,1,1
+S064,90,Machine Learning,Reading,Machine Learning,Classification,Article,Advanced,0,1
+S065,88,Data Science,Reading,Data Science,Statistics,Article,Advanced,1,1
+S066,44,Databases,Video,Databases,SQL Basics,Practice,Beginner,1,1
+S067,48,Machine Learning,Practice,Machine Learning,Regression,Practice,Beginner,0,1
+S068,74,Python,Interactive,Python,Collections,Quiz,Intermediate,1,1
+S069,49,Web Development,Reading,Web Development,JavaScript,Article,Beginner,1,1
+S070,43,Data Science,Interactive,Data Science,Visualization,Quiz,Beginner,1,1
+S071,62,Data Science,Video,Data Science,Visualization,Video,Intermediate,0,1
+S072,58,Web Development,Practice,Data Science,Pandas,Practice,Intermediate,0,1
+S073,66,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,1,1
+S074,89,Web Development,Reading,Web Development,CSS,Article,Advanced,0,1
+S075,92,Web Development,Practice,Web Development,HTML,Practice,Advanced,0,1
+S076,64,Data Science,Practice,Data Science,Visualization,Practice,Intermediate,0,1
+S077,43,Machine Learning,Reading,Machine Learning,Regression,Article,Beginner,0,1
+S078,42,Python,Practice,Python,Collections,Video,Beginner,1,0
+S079,41,Data Science,Interactive,Databases,Database Design,Quiz,Beginner,0,0
+S080,98,Machine Learning,Practice,Python,Loops,Practice,Advanced,1,0
+S081,44,Python,Video,Databases,SQL Basics,Video,Beginner,1,0
+S082,36,Data Science,Interactive,Data Science,Visualization,Quiz,Beginner,0,1
+S083,52,Machine Learning,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S084,44,Web Development,Video,Web Development,Frontend Basics,Practice,Beginner,0,1
+S085,49,Python,Video,Databases,SQL Basics,Article,Beginner,1,1
+S086,63,Web Development,Interactive,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S087,64,Python,Reading,Python,Collections,Article,Intermediate,1,1
+S088,95,Machine Learning,Practice,Machine Learning,Clustering,Practice,Advanced,0,1
+S089,70,Web Development,Interactive,Web Development,HTML,Quiz,Intermediate,1,1
+S090,82,Python,Practice,Python,Variables,Quiz,Advanced,0,1
+S091,43,Data Science,Reading,Data Science,EDA,Article,Beginner,0,1
+S092,67,Machine Learning,Interactive,Machine Learning,Preprocessing,Article,Intermediate,1,1
+S093,65,Web Development,Practice,Web Development,HTML,Practice,Intermediate,1,1
+S094,91,Databases,Practice,Databases,Aggregation,Practice,Advanced,1,1
+S095,57,Web Development,Video,Web Development,HTML,Video,Intermediate,0,1
+S096,54,Data Science,Practice,Python,Variables,Practice,Beginner,1,0
+S097,61,Python,Reading,Python,File Handling,Article,Intermediate,1,1
+S098,46,Web Development,Reading,Machine Learning,Regression,Article,Beginner,0,1
+S099,62,Databases,Reading,Databases,Joins,Article,Intermediate,1,1
+S100,60,Web Development,Interactive,Web Development,CSS,Quiz,Intermediate,0,1
+S101,55,Web Development,Practice,Web Development,JavaScript,Video,Intermediate,0,1
+S102,66,Python,Video,Python,Variables,Video,Intermediate,0,1
+S103,99,Data Science,Interactive,Data Science,Pandas,Video,Advanced,0,1
+S104,36,Python,Reading,Python,Functions,Article,Beginner,1,1
+S105,53,Web Development,Video,Python,Collections,Video,Beginner,1,0
+S106,92,Machine Learning,Video,Data Science,Statistics,Video,Advanced,1,0
+S107,70,Databases,Interactive,Databases,Aggregation,Quiz,Intermediate,0,1
+S108,36,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Beginner,1,1
+S109,46,Web Development,Interactive,Web Development,CSS,Quiz,Beginner,1,1
+S110,78,Web Development,Practice,Web Development,JavaScript,Video,Advanced,0,1
+S111,99,Python,Practice,Python,Loops,Practice,Advanced,0,1
+S112,71,Web Development,Reading,Web Development,APIs,Quiz,Intermediate,1,1
+S113,79,Data Science,Reading,Data Science,Data Cleaning,Article,Advanced,0,1
+S114,40,Databases,Video,Databases,Database Design,Video,Beginner,1,1
+S115,71,Python,Practice,Machine Learning,Model Evaluation,Practice,Intermediate,0,0
+S116,39,Databases,Video,Databases,Aggregation,Video,Beginner,0,1
+S117,76,Python,Video,Python,Loops,Video,Intermediate,1,1
+S118,76,Python,Video,Python,File Handling,Article,Intermediate,1,0
+S119,93,Data Science,Video,Data Science,EDA,Quiz,Advanced,1,0
+S120,55,Machine Learning,Reading,Machine Learning,Preprocessing,Article,Intermediate,0,1
+S121,52,Data Science,Interactive,Data Science,Pandas,Video,Beginner,1,0
+S122,73,Databases,Interactive,Databases,Database Design,Article,Intermediate,0,1
+S123,87,Databases,Reading,Databases,Joins,Article,Advanced,0,1
+S124,93,Python,Interactive,Web Development,JavaScript,Quiz,Advanced,1,1
+S125,46,Data Science,Practice,Data Science,Statistics,Practice,Beginner,0,1
+S126,74,Machine Learning,Interactive,Machine Learning,Preprocessing,Quiz,Intermediate,1,1
+S127,85,Data Science,Video,Data Science,Data Cleaning,Video,Advanced,0,1
+S128,49,Web Development,Practice,Web Development,Frontend Basics,Article,Beginner,0,1
+S129,80,Web Development,Reading,Web Development,JavaScript,Article,Advanced,0,1
+S130,60,Data Science,Interactive,Data Science,Data Cleaning,Practice,Intermediate,0,1
+S131,41,Python,Interactive,Python,Conditions,Quiz,Beginner,0,1
+S132,54,Web Development,Interactive,Web Development,Frontend Basics,Article,Beginner,1,1
+S133,86,Web Development,Video,Web Development,APIs,Video,Advanced,1,1
+S134,61,Machine Learning,Video,Machine Learning,Classification,Video,Intermediate,0,1
+S135,60,Data Science,Interactive,Data Science,EDA,Quiz,Intermediate,0,1
+S136,78,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,1,1
+S137,94,Web Development,Interactive,Web Development,APIs,Quiz,Advanced,0,1
+S138,64,Databases,Practice,Databases,Joins,Video,Intermediate,0,1
+S139,90,Machine Learning,Reading,Machine Learning,Model Evaluation,Practice,Advanced,0,1
+S140,41,Databases,Practice,Databases,Database Design,Practice,Beginner,1,1
+S141,94,Python,Video,Python,Functions,Video,Advanced,0,1
+S142,39,Data Science,Practice,Data Science,Data Cleaning,Practice,Beginner,0,1
+S143,96,Data Science,Interactive,Data Science,Pandas,Practice,Advanced,0,1
+S144,41,Databases,Interactive,Databases,Joins,Quiz,Beginner,0,1
+S145,87,Python,Practice,Machine Learning,Clustering,Practice,Advanced,0,1
+S146,66,Data Science,Reading,Data Science,NumPy,Practice,Intermediate,1,1
+S147,79,Python,Reading,Machine Learning,Classification,Article,Advanced,1,1
+S148,42,Data Science,Video,Data Science,Visualization,Video,Beginner,0,1
+S149,54,Databases,Video,Databases,SQL Basics,Article,Beginner,0,1
+S150,45,Machine Learning,Reading,Machine Learning,Clustering,Article,Beginner,1,1
+S151,87,Machine Learning,Video,Machine Learning,Preprocessing,Video,Advanced,0,1
+S152,48,Data Science,Video,Data Science,Visualization,Quiz,Beginner,0,1
+S153,89,Web Development,Practice,Web Development,APIs,Practice,Advanced,0,1
+S154,64,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,0,1
+S155,52,Data Science,Interactive,Data Science,Visualization,Article,Beginner,0,1
+S156,69,Databases,Video,Data Science,NumPy,Quiz,Intermediate,1,0
+S157,76,Data Science,Reading,Data Science,EDA,Article,Intermediate,0,1
+S158,89,Python,Practice,Python,File Handling,Practice,Advanced,1,1
+S159,44,Python,Reading,Python,Functions,Article,Beginner,0,1
+S160,84,Data Science,Practice,Data Science,Data Cleaning,Video,Advanced,0,1
+S161,62,Data Science,Practice,Data Science,NumPy,Quiz,Intermediate,0,1
+S162,52,Machine Learning,Practice,Machine Learning,Model Evaluation,Practice,Beginner,1,1
+S163,41,Databases,Interactive,Databases,Aggregation,Quiz,Beginner,1,1
+S164,65,Python,Interactive,Databases,SQL Basics,Quiz,Intermediate,1,0
+S165,99,Databases,Video,Databases,Database Design,Video,Advanced,0,1
+S166,100,Python,Reading,Python,File Handling,Article,Advanced,1,1
+S167,39,Databases,Interactive,Python,Variables,Quiz,Beginner,0,0
+S168,91,Machine Learning,Video,Machine Learning,Clustering,Video,Advanced,0,1
+S169,54,Web Development,Reading,Machine Learning,Regression,Article,Beginner,0,1
+S170,42,Databases,Reading,Databases,Database Design,Video,Beginner,1,1
+S171,89,Machine Learning,Interactive,Databases,Database Design,Quiz,Advanced,1,0
+S172,97,Data Science,Practice,Data Science,Pandas,Practice,Advanced,1,1
+S173,86,Databases,Video,Databases,SQL Basics,Video,Advanced,1,1
+S174,94,Python,Interactive,Machine Learning,Clustering,Quiz,Advanced,0,1
+S175,71,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,1,1
+S176,48,Machine Learning,Practice,Machine Learning,Preprocessing,Video,Beginner,1,1
+S177,95,Data Science,Video,Data Science,Statistics,Quiz,Advanced,1,1
+S178,40,Machine Learning,Video,Databases,Database Design,Article,Beginner,1,0
+S179,52,Databases,Interactive,Databases,Database Design,Quiz,Beginner,1,1
+S180,93,Web Development,Interactive,Web Development,HTML,Video,Advanced,0,1
+S001,84,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S002,40,Python,Video,Machine Learning,Preprocessing,Video,Beginner,0,1
+S003,95,Web Development,Interactive,Python,Collections,Quiz,Advanced,0,0
+S004,36,Machine Learning,Video,Machine Learning,Regression,Video,Beginner,1,1
+S005,66,Python,Reading,Python,Conditions,Article,Intermediate,0,1
+S006,47,Machine Learning,Practice,Databases,Database Design,Practice,Beginner,0,0
+S007,37,Web Development,Reading,Data Science,EDA,Article,Beginner,1,1
+S008,92,Data Science,Interactive,Data Science,EDA,Quiz,Advanced,0,1
+S009,46,Machine Learning,Video,Machine Learning,Preprocessing,Video,Beginner,0,1
+S010,68,Data Science,Reading,Data Science,Statistics,Article,Intermediate,0,1
+S011,44,Machine Learning,Video,Machine Learning,Clustering,Video,Beginner,0,1
+S012,57,Data Science,Video,Data Science,EDA,Video,Intermediate,0,1
+S013,69,Data Science,Video,Data Science,EDA,Video,Intermediate,1,1
+S014,70,Databases,Video,Databases,Database Design,Video,Intermediate,0,1
+S015,77,Databases,Video,Databases,SQL Basics,Video,Intermediate,1,1
+S016,77,Python,Practice,Python,Variables,Quiz,Intermediate,1,0
+S017,92,Data Science,Reading,Data Science,Statistics,Article,Advanced,0,1
+S018,62,Databases,Practice,Databases,Joins,Practice,Intermediate,0,1
+S019,59,Python,Practice,Databases,Joins,Practice,Intermediate,1,1
+S020,82,Machine Learning,Interactive,Machine Learning,Model Evaluation,Practice,Advanced,1,1
+S021,73,Machine Learning,Practice,Machine Learning,Clustering,Quiz,Intermediate,1,1
+S022,92,Data Science,Reading,Python,Variables,Article,Advanced,0,0
+S023,69,Machine Learning,Reading,Machine Learning,Regression,Article,Intermediate,0,1
+S024,59,Web Development,Practice,Web Development,HTML,Article,Intermediate,1,1
+S025,69,Web Development,Reading,Data Science,Visualization,Article,Intermediate,1,0
+S026,74,Databases,Reading,Databases,Joins,Practice,Intermediate,1,1
+S027,81,Python,Practice,Python,Functions,Practice,Advanced,0,1
+S028,74,Databases,Interactive,Databases,Joins,Quiz,Intermediate,0,1
+S029,38,Data Science,Practice,Data Science,Pandas,Practice,Beginner,0,1
+S030,58,Web Development,Video,Web Development,APIs,Video,Intermediate,0,1
+S031,55,Python,Reading,Python,Loops,Article,Intermediate,1,1
+S032,58,Databases,Practice,Databases,Aggregation,Practice,Intermediate,1,1
+S033,35,Databases,Video,Databases,Joins,Video,Beginner,1,1
+S034,87,Python,Practice,Python,Variables,Article,Advanced,0,1
+S035,96,Databases,Video,Databases,SQL Basics,Article,Advanced,1,1
+S036,83,Databases,Reading,Databases,Database Design,Article,Advanced,1,0
+S037,82,Python,Practice,Python,Variables,Practice,Advanced,1,1
+S038,58,Databases,Interactive,Databases,SQL Basics,Quiz,Intermediate,1,1
+S039,58,Machine Learning,Video,Machine Learning,Clustering,Quiz,Intermediate,1,1
+S040,91,Data Science,Video,Data Science,Pandas,Video,Advanced,1,1
+S041,74,Python,Video,Python,Variables,Quiz,Intermediate,0,1
+S042,61,Machine Learning,Practice,Data Science,Data Cleaning,Practice,Intermediate,1,0
+S043,98,Data Science,Video,Machine Learning,Preprocessing,Article,Advanced,1,1
+S044,58,Python,Video,Python,Collections,Quiz,Intermediate,1,1
+S045,45,Machine Learning,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S046,65,Data Science,Reading,Data Science,Visualization,Article,Intermediate,0,1
+S047,80,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Advanced,1,1
+S048,70,Databases,Reading,Databases,Joins,Article,Intermediate,0,1
+S049,92,Web Development,Interactive,Web Development,HTML,Quiz,Advanced,1,1
+S050,71,Data Science,Practice,Data Science,EDA,Practice,Intermediate,1,1
+S051,86,Web Development,Practice,Web Development,Frontend Basics,Practice,Advanced,1,1
+S052,73,Databases,Practice,Data Science,Pandas,Practice,Intermediate,1,0
+S053,62,Machine Learning,Reading,Machine Learning,Classification,Practice,Intermediate,1,1
+S054,72,Machine Learning,Practice,Machine Learning,Regression,Practice,Intermediate,0,1
+S055,36,Databases,Reading,Web Development,APIs,Video,Beginner,1,0
+S056,89,Machine Learning,Interactive,Machine Learning,Model Evaluation,Quiz,Advanced,0,1
+S057,45,Machine Learning,Video,Data Science,Statistics,Article,Beginner,0,0
+S058,84,Machine Learning,Reading,Machine Learning,Model Evaluation,Article,Advanced,0,1
+S059,54,Databases,Reading,Databases,SQL Basics,Article,Beginner,0,1
+S060,65,Databases,Reading,Python,Conditions,Article,Intermediate,1,0
+S061,55,Web Development,Interactive,Python,Collections,Quiz,Intermediate,0,0
+S062,77,Data Science,Reading,Databases,Database Design,Article,Intermediate,0,1
+S063,83,Databases,Video,Databases,Joins,Video,Advanced,0,1
+S064,73,Data Science,Reading,Data Science,Pandas,Article,Intermediate,1,1
+S065,62,Databases,Interactive,Databases,Database Design,Quiz,Intermediate,1,1
+S066,74,Web Development,Practice,Data Science,Data Cleaning,Practice,Intermediate,1,0
+S067,66,Data Science,Interactive,Web Development,CSS,Quiz,Intermediate,1,1
+S068,56,Databases,Practice,Databases,Joins,Practice,Intermediate,1,1
+S069,84,Web Development,Reading,Web Development,HTML,Article,Advanced,1,1
+S070,75,Web Development,Interactive,Web Development,JavaScript,Article,Intermediate,0,1
+S071,89,Machine Learning,Interactive,Data Science,EDA,Article,Advanced,0,1
+S072,86,Web Development,Reading,Web Development,Frontend Basics,Article,Advanced,0,1
+S073,89,Databases,Video,Databases,Aggregation,Video,Advanced,0,1
+S074,95,Data Science,Video,Data Science,NumPy,Video,Advanced,0,1
+S075,63,Web Development,Reading,Web Development,JavaScript,Practice,Intermediate,0,1
+S076,82,Web Development,Interactive,Web Development,JavaScript,Quiz,Advanced,0,1
+S077,100,Python,Reading,Python,Loops,Article,Advanced,0,1
+S078,59,Machine Learning,Reading,Machine Learning,Clustering,Article,Intermediate,0,1
+S079,54,Data Science,Video,Data Science,Data Cleaning,Video,Beginner,0,1
+S080,37,Databases,Reading,Databases,Aggregation,Article,Beginner,1,1
+S081,98,Machine Learning,Video,Machine Learning,Classification,Quiz,Advanced,1,1
+S082,53,Python,Interactive,Python,Conditions,Quiz,Beginner,0,1
+S083,63,Web Development,Reading,Web Development,CSS,Article,Intermediate,0,1
+S084,70,Machine Learning,Video,Machine Learning,Model Evaluation,Video,Intermediate,1,1
+S085,61,Machine Learning,Reading,Machine Learning,Regression,Quiz,Intermediate,1,0
+S086,94,Data Science,Reading,Data Science,Data Cleaning,Practice,Advanced,0,1
+S087,82,Databases,Reading,Databases,SQL Basics,Quiz,Advanced,0,1
+S088,68,Data Science,Interactive,Data Science,Data Cleaning,Quiz,Intermediate,0,1
+S089,59,Web Development,Practice,Machine Learning,Preprocessing,Quiz,Intermediate,0,1
+S090,95,Data Science,Video,Data Science,Statistics,Quiz,Advanced,1,1
+S091,99,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Advanced,1,1
+S092,41,Databases,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S093,90,Machine Learning,Interactive,Machine Learning,Regression,Quiz,Advanced,1,1
+S094,90,Machine Learning,Interactive,Data Science,Data Cleaning,Quiz,Advanced,0,0
+S095,61,Web Development,Practice,Web Development,Frontend Basics,Quiz,Intermediate,0,1
+S096,88,Web Development,Reading,Data Science,Data Cleaning,Video,Advanced,0,0
+S097,94,Machine Learning,Video,Web Development,JavaScript,Video,Advanced,0,1
+S098,70,Databases,Interactive,Databases,Aggregation,Video,Intermediate,1,1
+S099,44,Databases,Interactive,Databases,Database Design,Quiz,Beginner,0,1
+S100,40,Web Development,Practice,Web Development,Frontend Basics,Practice,Beginner,0,1
+S101,91,Python,Practice,Python,Functions,Practice,Advanced,1,1
+S102,97,Data Science,Practice,Data Science,Pandas,Practice,Advanced,1,1
+S103,47,Data Science,Practice,Databases,Database Design,Video,Beginner,1,0
+S104,64,Web Development,Practice,Data Science,Data Cleaning,Practice,Intermediate,1,0
+S105,39,Databases,Video,Python,Conditions,Video,Beginner,0,0
+S106,62,Web Development,Video,Web Development,HTML,Article,Intermediate,0,1
+S107,36,Web Development,Interactive,Data Science,EDA,Quiz,Beginner,1,0
+S108,90,Machine Learning,Reading,Machine Learning,Clustering,Article,Advanced,1,1
+S109,95,Web Development,Video,Machine Learning,Clustering,Video,Advanced,1,1
+S110,97,Databases,Video,Web Development,Frontend Basics,Video,Advanced,1,1
+S111,74,Databases,Video,Databases,Aggregation,Video,Intermediate,1,1
+S112,84,Machine Learning,Interactive,Machine Learning,Clustering,Quiz,Advanced,1,1
+S113,65,Data Science,Reading,Data Science,NumPy,Article,Intermediate,0,1
+S114,62,Machine Learning,Reading,Data Science,Statistics,Article,Intermediate,0,1
+S115,67,Python,Interactive,Python,Functions,Quiz,Intermediate,1,1
+S116,66,Data Science,Video,Data Science,EDA,Video,Intermediate,1,1
+S117,81,Python,Video,Web Development,HTML,Article,Advanced,0,0
+S118,82,Python,Practice,Python,Loops,Practice,Advanced,1,1
+S119,60,Web Development,Reading,Web Development,Frontend Basics,Article,Intermediate,0,1
+S120,98,Data Science,Reading,Data Science,Visualization,Article,Advanced,0,1
+S121,90,Web Development,Video,Web Development,HTML,Video,Advanced,1,1
+S122,63,Databases,Practice,Databases,Database Design,Practice,Intermediate,0,1
+S123,95,Machine Learning,Reading,Machine Learning,Regression,Practice,Advanced,1,1
+S124,41,Data Science,Interactive,Data Science,NumPy,Quiz,Beginner,0,1
+S125,44,Python,Video,Databases,Aggregation,Video,Beginner,1,1
+S126,98,Python,Reading,Python,Conditions,Article,Advanced,0,1
+S127,96,Databases,Practice,Databases,Database Design,Practice,Advanced,1,1
+S128,46,Databases,Interactive,Databases,SQL Basics,Quiz,Beginner,0,1
+S129,97,Python,Practice,Python,Loops,Quiz,Advanced,0,1
+S130,85,Data Science,Practice,Data Science,EDA,Practice,Advanced,1,1
+S131,62,Python,Practice,Python,Collections,Practice,Intermediate,1,1
+S132,43,Data Science,Reading,Data Science,Visualization,Article,Beginner,1,1
+S133,58,Web Development,Video,Databases,Database Design,Video,Intermediate,1,0
+S134,50,Web Development,Practice,Web Development,CSS,Practice,Beginner,0,1
+S135,40,Python,Interactive,Python,File Handling,Practice,Beginner,1,1
+S136,95,Machine Learning,Practice,Machine Learning,Preprocessing,Article,Advanced,1,0
+S137,42,Data Science,Interactive,Data Science,Visualization,Article,Beginner,1,1
+S138,88,Machine Learning,Video,Data Science,Data Cleaning,Practice,Advanced,0,1
+S139,96,Databases,Practice,Databases,Joins,Practice,Advanced,0,1
+S140,75,Python,Practice,Python,Conditions,Quiz,Intermediate,0,1
+S141,87,Machine Learning,Video,Web Development,APIs,Video,Advanced,0,1
+S142,52,Web Development,Interactive,Web Development,APIs,Quiz,Beginner,1,1
+S143,100,Web Development,Practice,Web Development,APIs,Practice,Advanced,1,1
+S144,76,Data Science,Video,Web Development,CSS,Video,Intermediate,0,1
+S145,44,Machine Learning,Practice,Machine Learning,Preprocessing,Article,Beginner,1,1
+S146,86,Python,Video,Python,Collections,Video,Advanced,1,1
+S147,61,Python,Interactive,Data Science,Visualization,Quiz,Intermediate,0,1
+S148,67,Databases,Interactive,Python,Collections,Quiz,Intermediate,0,0
+S149,68,Machine Learning,Video,Python,Conditions,Video,Intermediate,0,1
+S150,76,Machine Learning,Practice,Machine Learning,Preprocessing,Practice,Intermediate,1,1
+S151,57,Databases,Video,Databases,Database Design,Video,Intermediate,1,1
+S152,54,Python,Practice,Python,Functions,Practice,Beginner,0,1
+S153,54,Web Development,Practice,Web Development,CSS,Practice,Beginner,1,1
+S154,93,Web Development,Practice,Web Development,APIs,Practice,Advanced,0,1
+S155,48,Data Science,Video,Web Development,JavaScript,Video,Beginner,1,0
+S156,89,Web Development,Reading,Machine Learning,Model Evaluation,Article,Advanced,1,0
+S157,100,Python,Practice,Python,Variables,Practice,Advanced,0,1
+S158,54,Python,Video,Python,Collections,Article,Beginner,1,1
+S159,37,Machine Learning,Video,Web Development,APIs,Video,Beginner,1,0
+S160,100,Machine Learning,Practice,Machine Learning,Clustering,Practice,Advanced,0,1
